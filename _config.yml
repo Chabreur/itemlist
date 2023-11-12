@@ -11,7 +11,7 @@ github_username: 'Chabreur'
 # Item list settings
 #
 # A brief overview of the settings in this section include:
-store:
+Magasin:
 #   category    → Whether or not the item's in-game category willbe visible on the list.
 #   weight      → Whether or not the item's purchase weight will be visible on the list.
 #   karma       → Whether or not the product's karma type override will be visible on the list
