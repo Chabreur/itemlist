@@ -778,5 +778,29 @@
     "name": "[SR]Raid Extension",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Grimm",
+    "name": "Un-Limited",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BattIeBear",
+    "name": "Undergrounders: Complete",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BattIeBear",
+    "name": "Undergrounders: Deep Fabrics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Complex Jobs",
+    "steamId": null,
+    "version": null
   }
 ]
