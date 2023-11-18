@@ -25655,7 +25655,211 @@
 		"price": 23,
 		"category": "Medicine",
 		"defname": "undrgdrs_RegeneGel"
+	},
+	{
+		"abr": "animarod",
+		"price": 7333,
+		"category": "Ranged weapons",
+		"defname": "RBSFE_AnimaRod"
+	},
+	{
+		"abr": "bodhrán",
+		"price": 58,
+		"category": "Ranged weapons",
+		"defname": "RBSF_Bodhran"
+	},
+	{
+		"abr": "chiton",
+		"price": 233,
+		"category": "Misc",
+		"defname": "RBME_Chiton"
+	},
+	{
+		"abr": "cowbell",
+		"price": 124,
+		"category": "Headgear",
+		"defname": "RBME_Cowbell"
+	},
+	{
+		"abr": "epsilonaxe",
+		"price": 450,
+		"category": "Melee weapons",
+		"defname": "RBME_EpsilonAxe"
+	},
+	{
+		"abr": "faeblade",
+		"price": 327,
+		"category": "Melee weapons",
+		"defname": "RBSFE_FaeBlade"
+	},
+	{
+		"abr": "faecrown",
+		"price": 25,
+		"category": "Headgear",
+		"defname": "RBSFE_Faecrown"
+	},
+	{
+		"abr": "faeleaf",
+		"price": 13,
+		"category": "Misc",
+		"defname": "RBSFE_Faeleaf"
+	},
+	{
+		"abr": "faestaff",
+		"price": 177,
+		"category": "Ranged weapons",
+		"defname": "RBSFE_FaeStaff"
+	},
+	{
+		"abr": "faewhip",
+		"price": 215,
+		"category": "Ranged weapons",
+		"defname": "RBSFE_FaeWhip"
+	},
+	{
+		"abr": "faecap",
+		"price": 53,
+		"category": "Headgear",
+		"defname": "RBSFE_Faecap"
+	},
+	{
+		"abr": "faecloak",
+		"price": 216,
+		"category": "Misc",
+		"defname": "RBSFE_Faecloak"
+	},
+	{
+		"abr": "faegarms",
+		"price": 149,
+		"category": "Misc",
+		"defname": "RBSFE_Faegarms"
+	},
+	{
+		"abr": "faemail",
+		"price": 850,
+		"category": "Armor",
+		"defname": "RBSFE_Faemail"
+	},
+	{
+		"abr": "faemore",
+		"price": 725,
+		"category": "Melee weapons",
+		"defname": "RBSFE_Faemore"
+	},
+	{
+		"abr": "faerrow",
+		"price": 141,
+		"category": "Ranged weapons",
+		"defname": "RBSFE_Faerrow"
+	},
+	{
+		"abr": "hellenichelmet",
+		"price": 253,
+		"category": "Headgear",
+		"defname": "RBME_HellenicHelmet"
+	},
+	{
+		"abr": "kidfaegarms",
+		"price": 109,
+		"category": "Misc",
+		"defname": "RBSFE_KidFaegarms"
+	},
+	{
+		"abr": "leaftrap",
+		"price": 137,
+		"category": "Security",
+		"defname": "RBSFE_LeafTrap"
+	},
+	{
+		"abr": "lute",
+		"price": 88,
+		"category": "Ranged weapons",
+		"defname": "RBSF_Lute"
+	},
+	{
+		"abr": "lute",
+		"price": 67,
+		"category": "Ranged weapons",
+		"defname": "RBSF_Lyre"
+	},
+	{
+		"abr": "melodicelegymusicsheet",
+		"price": 3333,
+		"category": "Misc",
+		"defname": "RBSF_MelodicElegySheet"
+	},
+	{
+		"abr": "melodichealingsongmusicsheet",
+		"price": 2417,
+		"category": "Misc",
+		"defname": "RBSF_MelodicHealingSongSheet"
+	},
+	{
+		"abr": "melodichymnmusicsheet",
+		"price": 1250,
+		"category": "Misc",
+		"defname": "RBSF_MelodicHymnSheet"
+	},
+	{
+		"abr": "melodiclullabymusicsheet",
+		"price": 2917,
+		"category": "Misc",
+		"defname": "RBSF_MelodicLullabySheet"
+	},
+	{
+		"abr": "melodicsonatamusicsheet",
+		"price": 1583,
+		"category": "Misc",
+		"defname": "RBSF_MelodicSonataSheet"
+	},
+	{
+		"abr": "melodicwarcallmusicsheet",
+		"price": 2000,
+		"category": "Misc",
+		"defname": "RBSF_MelodicWarcallSheet"
+	},
+	{
+		"abr": "muffalope",
+		"price": 467,
+		"category": "Animals",
+		"defname": "RBSFE_Muffalope"
+	},
+	{
+		"abr": "muffalopemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_RBSFE_Muffalope"
+	},
+	{
+		"abr": "panoply",
+		"price": 5000,
+		"category": "Armor",
+		"defname": "RBME_Panoply"
+	},
+	{
+		"abr": "pelekys",
+		"price": 204,
+		"category": "Ranged weapons",
+		"defname": "RBME_Pelekys"
+	},
+	{
+		"abr": "reedflute",
+		"price": 58,
+		"category": "Ranged weapons",
+		"defname": "RBSF_ReedFlute"
+	},
+	{
+		"abr": "royalhellenichelmet",
+		"price": 375,
+		"category": "Headgear",
+		"defname": "RBME_RoyalHellenicHelmet"
+	},
+	{
+		"abr": "sling",
+		"price": 118,
+		"category": "Ranged weapons",
+		"defname": "RBME_Sling"
 	}
 	],
-	"total": 4276
+	"total": 4310
 }

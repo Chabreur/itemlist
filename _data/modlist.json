@@ -685,12 +685,6 @@
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Races Expanded - Fungoid",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Races Expanded - Waster",
     "steamId": null,
     "version": null
@@ -800,6 +794,24 @@
   {
     "author": "FrozenSnowFox",
     "name": "[FSF] Complex Jobs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rooboid and Zelan",
+    "name": "Roo's Faun Xenotype",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rooboid and Zelan",
+    "name": "Roo's Minotaur Xenotype Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rooboid and Zelan",
+    "name": "Roo's Satyr and Faun Xenotypes Expanded",
     "steamId": null,
     "version": null
   }
