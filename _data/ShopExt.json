@@ -1995,124 +1995,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Xenophobia",
-      "name": "xenophobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Xenophobia",
-      "name": "xenophile"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has Solid exoskeleton, he takes much less damage than other Anties from the same blows.",
-      "stats": [
-        "x70% incoming damage multiplier",
-        "x112% leather amount",
-        "x0% flammability"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x70% incoming damage multiplier",
-          "x112% leather amount",
-          "x0% flammability"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Anty the war ant race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "AT_Solidexoskeleton",
-      "name": "solidexoskeleton"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a rare male Apini, who narrowly escaped death by snoo-snoo.\nDrones have special eyes for spotting queens.",
-      "stats": [
-        "Binging on drug mental state disabled.",
-        "Binging on drug mental state disabled.",
-        "+6 intellectual",
-        "+4 social",
-        "-10% aiming time",
-        "+1.0 shooting accuracy",
-        "+12% mental break threshold",
-        "-50% plant work speed",
-        "-20% trap spring chance",
-        "+10.00% social impact"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "Binging on drug mental state disabled.",
-          "Binging on drug mental state disabled.",
-          "+6 intellectual",
-          "+4 social",
-          "-10% aiming time",
-          "+1.0 shooting accuracy",
-          "+12% mental break threshold",
-          "-50% plant work speed",
-          "-20% trap spring chance",
-          "+10.00% social impact"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Apini Playable Race, Continued!",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ApiniDrone",
-      "name": "drone"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "degree": 0,
       "description": "By choice, by tragedy, or simply by the slow, agonizing passage of time, Timmy is the last of his kind. It is impossible for him to meet anyone he previously knew.",
       "stats": [],
@@ -3908,328 +3790,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Cold and mechanical Zeta Reticulans are unaffected by most human emotions.\n          Their frustrations mostly stem from whether work standards are being kept and mission guidelines followed; Their greatest joy is working in their field of expertise.\n        \n        Gene knowledge, epi-grafts, bio-mechanical trialing, surgical stress testing, and long running hybridization programs have long been the primary focus of Reticulan scientific\n        effort. Pathways into the highest tiers of robotics research have been waylaid by orthodox related to their governing \"Advisories\", namely the rejection of nonorganic consciousness as true consciousness; a more general fear of developing combative AI, and the Zeta's possession of a naturally evolved psy-limbic system which makes handling organics the path of least resistance.",
-      "stats": [
-        "Berserk mental state disabled.",
-        "Murderous rage mental state disabled.",
-        "Social fighting mental state disabled.",
-        "Tantrum mental state disabled.",
-        "Tantrum mental state disabled.",
-        "Tantrum mental state disabled.",
-        "Insulting spree mental state disabled.",
-        "Insulting spree mental state disabled.",
-        "Sad wandering mental state disabled.",
-        "Minimal meditation focus type allowed.",
-        "x10% global certainty loss factor"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "Berserk mental state disabled.",
-          "Murderous rage mental state disabled.",
-          "Social fighting mental state disabled.",
-          "Tantrum mental state disabled.",
-          "Tantrum mental state disabled.",
-          "Tantrum mental state disabled.",
-          "Insulting spree mental state disabled.",
-          "Insulting spree mental state disabled.",
-          "Sad wandering mental state disabled.",
-          "Minimal meditation focus type allowed.",
-          "x10% global certainty loss factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Zeta Reticulans [Player/Hostile Factions]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "GDZR_TRAIT_Agromist",
-      "name": "reticulan"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Cold and mechanical Zeta Reticulans are unaffected by most human emotions. Their frustrations mostly stem from whether work standards are being kept and mission guidelines followed; Their greatest joy is working in their field of expertise.",
-      "stats": [
-        "Berserk mental state disabled.",
-        "Murderous rage mental state disabled.",
-        "Social fighting mental state disabled.",
-        "Tantrum mental state disabled.",
-        "Tantrum mental state disabled.",
-        "Tantrum mental state disabled.",
-        "Insulting spree mental state disabled.",
-        "Insulting spree mental state disabled.",
-        "Sad wandering mental state disabled.",
-        "Minimal meditation focus type allowed.",
-        "x10% global certainty loss factor"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "Berserk mental state disabled.",
-          "Murderous rage mental state disabled.",
-          "Social fighting mental state disabled.",
-          "Tantrum mental state disabled.",
-          "Tantrum mental state disabled.",
-          "Tantrum mental state disabled.",
-          "Insulting spree mental state disabled.",
-          "Insulting spree mental state disabled.",
-          "Sad wandering mental state disabled.",
-          "Minimal meditation focus type allowed.",
-          "x10% global certainty loss factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Zeta Reticulans [Player/Hostile Factions]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "GDZR_TRAIT_Analyst",
-      "name": "reticulan"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Cold and mechanical Zeta Reticulans are unaffected by most human emotions. Their frustrations mostly stem from whether work standards are being kept and mission guidelines followed; Their greatest joy is working in their field of expertise.",
-      "stats": [
-        "Berserk mental state disabled.",
-        "Murderous rage mental state disabled.",
-        "Social fighting mental state disabled.",
-        "Tantrum mental state disabled.",
-        "Tantrum mental state disabled.",
-        "Tantrum mental state disabled.",
-        "Insulting spree mental state disabled.",
-        "Insulting spree mental state disabled.",
-        "Sad wandering mental state disabled.",
-        "Minimal meditation focus type allowed.",
-        "x10% global certainty loss factor"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "Berserk mental state disabled.",
-          "Murderous rage mental state disabled.",
-          "Social fighting mental state disabled.",
-          "Tantrum mental state disabled.",
-          "Tantrum mental state disabled.",
-          "Tantrum mental state disabled.",
-          "Insulting spree mental state disabled.",
-          "Insulting spree mental state disabled.",
-          "Sad wandering mental state disabled.",
-          "Minimal meditation focus type allowed.",
-          "x10% global certainty loss factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Zeta Reticulans [Player/Hostile Factions]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "GDZR_TRAIT_Disassembler",
-      "name": "reticulan"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Cold and mechanical Zeta Reticulans are unaffected by most human emotions. Their frustrations mostly stem from whether work standards are being kept and mission guidelines followed; Their greatest joy is working in their field of expertise.",
-      "stats": [
-        "Berserk mental state disabled.",
-        "Murderous rage mental state disabled.",
-        "Social fighting mental state disabled.",
-        "Tantrum mental state disabled.",
-        "Tantrum mental state disabled.",
-        "Tantrum mental state disabled.",
-        "Insulting spree mental state disabled.",
-        "Insulting spree mental state disabled.",
-        "Sad wandering mental state disabled.",
-        "Minimal meditation focus type allowed.",
-        "x10% global certainty loss factor"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "Berserk mental state disabled.",
-          "Murderous rage mental state disabled.",
-          "Social fighting mental state disabled.",
-          "Tantrum mental state disabled.",
-          "Tantrum mental state disabled.",
-          "Tantrum mental state disabled.",
-          "Insulting spree mental state disabled.",
-          "Insulting spree mental state disabled.",
-          "Sad wandering mental state disabled.",
-          "Minimal meditation focus type allowed.",
-          "x10% global certainty loss factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Zeta Reticulans [Player/Hostile Factions]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "GDZR_TRAIT_Fabricator",
-      "name": "reticulan"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Cold and mechanical Zeta Reticulans are unaffected by most human emotions. Their frustrations mostly stem from whether work standards are being kept and mission guidelines followed; Their greatest joy is working in their field of expertise.",
-      "stats": [
-        "Berserk mental state disabled.",
-        "Murderous rage mental state disabled.",
-        "Social fighting mental state disabled.",
-        "Tantrum mental state disabled.",
-        "Tantrum mental state disabled.",
-        "Tantrum mental state disabled.",
-        "Insulting spree mental state disabled.",
-        "Insulting spree mental state disabled.",
-        "Sad wandering mental state disabled.",
-        "Minimal meditation focus type allowed.",
-        "x10% global certainty loss factor"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "Berserk mental state disabled.",
-          "Murderous rage mental state disabled.",
-          "Social fighting mental state disabled.",
-          "Tantrum mental state disabled.",
-          "Tantrum mental state disabled.",
-          "Tantrum mental state disabled.",
-          "Insulting spree mental state disabled.",
-          "Insulting spree mental state disabled.",
-          "Sad wandering mental state disabled.",
-          "Minimal meditation focus type allowed.",
-          "x10% global certainty loss factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Zeta Reticulans [Player/Hostile Factions]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "GDZR_TRAIT_Procurer",
-      "name": "reticulan"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Cold and mechanical Zeta Reticulans are unaffected by most human emotions. Their frustrations mostly stem from whether work standards are being kept and mission guidelines followed; Their greatest joy is working in their field of expertise.",
-      "stats": [
-        "Berserk mental state disabled.",
-        "Murderous rage mental state disabled.",
-        "Social fighting mental state disabled.",
-        "Tantrum mental state disabled.",
-        "Tantrum mental state disabled.",
-        "Tantrum mental state disabled.",
-        "Insulting spree mental state disabled.",
-        "Insulting spree mental state disabled.",
-        "Sad wandering mental state disabled.",
-        "Minimal meditation focus type allowed.",
-        "x10% global certainty loss factor"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "Berserk mental state disabled.",
-          "Murderous rage mental state disabled.",
-          "Social fighting mental state disabled.",
-          "Tantrum mental state disabled.",
-          "Tantrum mental state disabled.",
-          "Tantrum mental state disabled.",
-          "Insulting spree mental state disabled.",
-          "Insulting spree mental state disabled.",
-          "Sad wandering mental state disabled.",
-          "Minimal meditation focus type allowed.",
-          "x10% global certainty loss factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Zeta Reticulans [Player/Hostile Factions]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "GDZR_TRAIT_Therapist",
-      "name": "reticulan"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Magnetically bound mnemonic energy, encoded to provide additional on-site monitoring.",
-      "stats": [
-        "Berserk mental state disabled.",
-        "Murderous rage mental state disabled.",
-        "Social fighting mental state disabled.",
-        "Tantrum mental state disabled.",
-        "Tantrum mental state disabled.",
-        "Tantrum mental state disabled.",
-        "Insulting spree mental state disabled.",
-        "Insulting spree mental state disabled.",
-        "Sad wandering mental state disabled.",
-        "Minimal meditation focus type allowed.",
-        "x10% global certainty loss factor"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "Berserk mental state disabled.",
-          "Murderous rage mental state disabled.",
-          "Social fighting mental state disabled.",
-          "Tantrum mental state disabled.",
-          "Tantrum mental state disabled.",
-          "Tantrum mental state disabled.",
-          "Insulting spree mental state disabled.",
-          "Insulting spree mental state disabled.",
-          "Sad wandering mental state disabled.",
-          "Minimal meditation focus type allowed.",
-          "x10% global certainty loss factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Zeta Reticulans [Player/Hostile Factions]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "GDZR_TRAIT_OrbAllowanceGene",
-      "name": "allowanceorb(gene)"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
       "description": "Timmy is entombed in a mech master warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Timmy will be unable to do most tasks, except those necessary to maintain and build mechanoids.",
       "stats": [],
       "conflicts": [],
@@ -4719,6 +4279,1798 @@
       },
       "defName": "RBSF_Uncouth",
       "name": "uncouth"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is truly gigantic by the standards of their kind. They are sturdier than usual, but being significantly larger than normal for their kind does slow them down somewhat and make them more prone to early heart attacks and other health-issues.",
+      "stats": [
+        "x130% body size multipler",
+        "x110% construction speed",
+        "x90% move speed",
+        "x80% lifespan factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x130% body size multipler",
+          "x110% construction speed",
+          "x90% move speed",
+          "x80% lifespan factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Gigantism",
+      "name": "gigantism"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is taller and bulkier than usual for their kind. This makes them sturdier but slightly slower.",
+      "stats": [
+        "x115% body size multipler",
+        "x105% construction speed",
+        "x95% move speed",
+        "x95% lifespan factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x115% body size multipler",
+          "x105% construction speed",
+          "x95% move speed",
+          "x95% lifespan factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Large",
+      "name": "large"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a bit smaller than usual for their kind.",
+      "stats": [
+        "x80% body size multipler",
+        "x95% mining speed",
+        "x95% construction speed",
+        "x95% deep drilling speed",
+        "x93% move speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x80% body size multipler",
+          "x95% mining speed",
+          "x95% construction speed",
+          "x95% deep drilling speed",
+          "x93% move speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Small",
+      "name": "small"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is much smaller than usual for their kind.",
+      "stats": [
+        "x60% body size multipler",
+        "x75% mining speed",
+        "x75% construction speed",
+        "x75% deep drilling speed",
+        "x85% move speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x60% body size multipler",
+          "x75% mining speed",
+          "x75% construction speed",
+          "x75% deep drilling speed",
+          "x85% move speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Dwarfism",
+      "name": "dwarfism"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy learns faster in skills they lack passion in.\n\n(This increase to no-passion learning will not show in the skill UI)",
+      "stats": [
+        "+0.35 skill learning (no passion)",
+        "+15% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.35 skill learning (no passion)",
+          "+15% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Passioned_Learning",
+      "name": "diligentstudent"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy learns much faster in skills they lack passion in.\n\n(This increase to no-passion learning will not show in the skill UI)",
+      "stats": [
+        "+0.65 skill learning (no passion)",
+        "+30% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.65 skill learning (no passion)",
+          "+30% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Very_Passioned_Learning",
+      "name": "verydiligentstudent"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "There is something about Timmy that makes predators not consider tham as prey",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_AnimalFriend",
+      "name": "animalfriend"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy loves alcohol. he will never stop being addicted to it.",
+      "stats": [
+        "+10% mental break threshold",
+        "x150% recreation power"
+      ],
+      "conflicts": [
+        "chemicalfascination",
+        "chemicalinterest",
+        "teetotaler",
+        "lush"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "chemicalfascination",
+          "chemicalinterest",
+          "teetotaler",
+          "lush"
+        ],
+        "stats": [
+          "+10% mental break threshold",
+          "x150% recreation power"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_AlcoholAddict",
+      "name": "alcohollover"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy finds it difficult to focus on distant targets, and prefer to get up close and personal.",
+      "stats": [
+        "-2 shooting",
+        "+2 melee",
+        "-2.0 shooting accuracy",
+        "+15% aiming time",
+        "+2.0 melee hit chance",
+        "+2.0 melee dodge chance"
+      ],
+      "conflicts": [
+        "farsighted"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "farsighted"
+        ],
+        "stats": [
+          "-2 shooting",
+          "+2 melee",
+          "-2.0 shooting accuracy",
+          "+15% aiming time",
+          "+2.0 melee hit chance",
+          "+2.0 melee dodge chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Nearsighted",
+      "name": "nearsighted"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy could spot a target from nearly a hundred meters, yet still somehow walk into walls.",
+      "stats": [
+        "+2 shooting",
+        "-2 melee",
+        "+2.0 shooting accuracy",
+        "-15% aiming time",
+        "-2.0 melee hit chance",
+        "-2.0 melee dodge chance"
+      ],
+      "conflicts": [
+        "nearsighted"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "nearsighted"
+        ],
+        "stats": [
+          "+2 shooting",
+          "-2 melee",
+          "+2.0 shooting accuracy",
+          "-15% aiming time",
+          "-2.0 melee hit chance",
+          "-2.0 melee dodge chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Farsighted",
+      "name": "farsighted"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's movements are smooth and graceful.",
+      "stats": [
+        "+2.0 melee dodge chance",
+        "+0.10 move speed"
+      ],
+      "conflicts": [
+        "stiff"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "stiff"
+        ],
+        "stats": [
+          "+2.0 melee dodge chance",
+          "+0.10 move speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Athletic",
+      "name": "athletic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is so rigid, it's almost like he is souless.",
+      "stats": [
+        "-2.0 melee dodge chance",
+        "-0.10 move speed"
+      ],
+      "conflicts": [
+        "athletic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "athletic"
+        ],
+        "stats": [
+          "-2.0 melee dodge chance",
+          "-0.10 move speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Stiff",
+      "name": "stiff"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy takes care of his personal hygiene.",
+      "stats": [
+        "-10.00% food poison chance"
+      ],
+      "conflicts": [
+        "poorhygiene"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "poorhygiene"
+        ],
+        "stats": [
+          "-10.00% food poison chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_GoodHygiene",
+      "name": "goodhygiene"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy doesn't care about his hygiene, and sometimes get sick from bad food.",
+      "stats": [
+        "+10.00% food poison chance"
+      ],
+      "conflicts": [
+        "goodhygiene"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "goodhygiene"
+        ],
+        "stats": [
+          "+10.00% food poison chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_PoorHygiene",
+      "name": "poorhygiene"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy often gets his way with things.",
+      "stats": [
+        "+25.00% negotiation ability",
+        "+25.00% Arrest success chance"
+      ],
+      "conflicts": [
+        "unconvincing"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "unconvincing"
+        ],
+        "stats": [
+          "+25.00% negotiation ability",
+          "+25.00% Arrest success chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Persuasive",
+      "name": "persuasive"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has never won a debate in his life.",
+      "stats": [
+        "-25.00% negotiation ability",
+        "-25.00% Arrest success chance"
+      ],
+      "conflicts": [
+        "persuasive"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "persuasive"
+        ],
+        "stats": [
+          "-25.00% negotiation ability",
+          "-25.00% Arrest success chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Unconvincing",
+      "name": "unconvincing"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has been in plenty of fights since he was a kid, and had built up a tolerance to injury and pain as a result.",
+      "stats": [
+        "-10% incoming damage multiplier",
+        "+5% pain shock threshold"
+      ],
+      "conflicts": [
+        "fragile",
+        "feeble"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "fragile",
+          "feeble"
+        ],
+        "stats": [
+          "-10% incoming damage multiplier",
+          "+5% pain shock threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Resilient",
+      "name": "resilient"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy lived a pampered life until now, and is unused to the brutal challenges present out in the Rim.",
+      "stats": [
+        "+10% incoming damage multiplier",
+        "-5% pain shock threshold"
+      ],
+      "conflicts": [
+        "resilient",
+        "hardy",
+        "tough"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "resilient",
+          "hardy",
+          "tough"
+        ],
+        "stats": [
+          "+10% incoming damage multiplier",
+          "-5% pain shock threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Fragile",
+      "name": "fragile"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy always tackle his tasks with great enthusism.",
+      "stats": [
+        "+20% global work speed",
+        "+0.15 move speed"
+      ],
+      "conflicts": [
+        "sluggish"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "sluggish"
+        ],
+        "stats": [
+          "+20% global work speed",
+          "+0.15 move speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Energetic",
+      "name": "energetic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is slow. Sooo... slooow...",
+      "stats": [
+        "-20% global work speed",
+        "-0.15 move speed"
+      ],
+      "conflicts": [
+        "energetic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "energetic"
+        ],
+        "stats": [
+          "-20% global work speed",
+          "-0.15 move speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Sluggish",
+      "name": "sluggish"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy always sleep like a baby.",
+      "stats": [
+        "+25% rest rate multiplier"
+      ],
+      "conflicts": [
+        "restless"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "restless"
+        ],
+        "stats": [
+          "+25% rest rate multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Restful",
+      "name": "restful"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy often has a difficult time falling asleep.",
+      "stats": [
+        "-25% rest rate multiplier"
+      ],
+      "conflicts": [
+        "restful"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "restful"
+        ],
+        "stats": [
+          "-25% rest rate multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Restless",
+      "name": "restless"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is quite productive when it comes to work.",
+      "stats": [
+        "+20% global work speed",
+        "+20% global learning factor"
+      ],
+      "conflicts": [
+        "inefficient"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "inefficient"
+        ],
+        "stats": [
+          "+20% global work speed",
+          "+20% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Efficient",
+      "name": "efficient"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is somewhat of a bottleneck in the colony.",
+      "stats": [
+        "-20% global work speed",
+        "-20% global learning factor"
+      ],
+      "conflicts": [
+        "efficient"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "efficient"
+        ],
+        "stats": [
+          "-20% global work speed",
+          "-20% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Inefficient",
+      "name": "inefficient"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is brave, he would stand his where others would scramble and run.",
+      "stats": [
+        "-5% mental break threshold",
+        "+5% pain shock threshold"
+      ],
+      "conflicts": [
+        "craven"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "craven"
+        ],
+        "stats": [
+          "-5% mental break threshold",
+          "+5% pain shock threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Valiant",
+      "name": "valiant"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "When there's a fight, Timmy is the first to run.",
+      "stats": [
+        "+5% mental break threshold",
+        "-5% pain shock threshold"
+      ],
+      "conflicts": [
+        "valiant"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "valiant"
+        ],
+        "stats": [
+          "+5% mental break threshold",
+          "-5% pain shock threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Craven",
+      "name": "craven"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy likes a good fight, he will sometimes start a fight just because he can.",
+      "stats": [
+        "+5% mental break threshold"
+      ],
+      "conflicts": [
+        "composed"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "composed"
+        ],
+        "stats": [
+          "+5% mental break threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Rowdy",
+      "name": "rowdy"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is usually calm and collected.",
+      "stats": [
+        "-5% mental break threshold"
+      ],
+      "conflicts": [
+        "rowdy"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "rowdy"
+        ],
+        "stats": [
+          "-5% mental break threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Composed",
+      "name": "composed"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is more comfortable being in hot environment than his peers.",
+      "stats": [
+        "+3.0C Maximum comfortable temperature"
+      ],
+      "conflicts": [
+        "heatintolerant"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "heatintolerant"
+        ],
+        "stats": [
+          "+3.0C Maximum comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_HeatTolerant",
+      "name": "heattolerant"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy does not like being in the heat.",
+      "stats": [
+        "-3.0C Maximum comfortable temperature"
+      ],
+      "conflicts": [
+        "heattolerant"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "heattolerant"
+        ],
+        "stats": [
+          "-3.0C Maximum comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_HeatIntolerant",
+      "name": "heatintolerant"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is more comfortable being in cold environment than his peers.",
+      "stats": [
+        "-3.0C Minimum comfortable temperature"
+      ],
+      "conflicts": [
+        "coldintolerant"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "coldintolerant"
+        ],
+        "stats": [
+          "-3.0C Minimum comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_ColdTolerant",
+      "name": "coldtolerant"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy does not like being in the cold.",
+      "stats": [
+        "+3.0C Minimum comfortable temperature"
+      ],
+      "conflicts": [
+        "coldtolerant"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "coldtolerant"
+        ],
+        "stats": [
+          "+3.0C Minimum comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_ColdIntolerant",
+      "name": "coldintolerant"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a well built body, people around he find that rather attractive.",
+      "stats": [
+        "+5 carrying capacity",
+        "+1.0 beauty"
+      ],
+      "conflicts": [
+        "frail"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "frail"
+        ],
+        "stats": [
+          "+5 carrying capacity",
+          "+1.0 beauty"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Muscular",
+      "name": "muscular"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy looks a bit fragile, but not in a lovable way.",
+      "stats": [
+        "-5 carrying capacity",
+        "-1.0 beauty"
+      ],
+      "conflicts": [
+        "muscular"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "muscular"
+        ],
+        "stats": [
+          "-5 carrying capacity",
+          "-1.0 beauty"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Frail",
+      "name": "frail"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy doesn't eat or drink much.",
+      "stats": [],
+      "conflicts": [
+        "ravenous"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "ravenous"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Abstinent",
+      "name": "abstinent"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a bottomless pit for a stomach.",
+      "stats": [],
+      "conflicts": [
+        "abstinent"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "abstinent"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Ravenous",
+      "name": "ravenous"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is naturally talented, he gets a headstart before everyone else.",
+      "stats": [
+        "+4 shooting",
+        "+4 melee",
+        "+4 construction",
+        "+4 mining",
+        "+4 cooking",
+        "+4 plants",
+        "+4 animals",
+        "+4 crafting",
+        "+4 artistic",
+        "+4 medical",
+        "+4 social",
+        "+4 intellectual"
+      ],
+      "conflicts": [
+        "incompetent"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "incompetent"
+        ],
+        "stats": [
+          "+4 shooting",
+          "+4 melee",
+          "+4 construction",
+          "+4 mining",
+          "+4 cooking",
+          "+4 plants",
+          "+4 animals",
+          "+4 crafting",
+          "+4 artistic",
+          "+4 medical",
+          "+4 social",
+          "+4 intellectual"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Gifted",
+      "name": "gifted"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is someone everyone loves to hate.",
+      "stats": [
+        "-4 shooting",
+        "-4 melee",
+        "-4 construction",
+        "-4 mining",
+        "-4 cooking",
+        "-4 plants",
+        "-4 animals",
+        "-4 crafting",
+        "-4 artistic",
+        "-4 medical",
+        "-4 social",
+        "-4 intellectual"
+      ],
+      "conflicts": [
+        "gifted"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "gifted"
+        ],
+        "stats": [
+          "-4 shooting",
+          "-4 melee",
+          "-4 construction",
+          "-4 mining",
+          "-4 cooking",
+          "-4 plants",
+          "-4 animals",
+          "-4 crafting",
+          "-4 artistic",
+          "-4 medical",
+          "-4 social",
+          "-4 intellectual"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Incompetent",
+      "name": "incompetent"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy takes great care in the preparation of food, he never skip a step just to have an early meal.",
+      "stats": [
+        "-0.8 cooking speed",
+        "-10.00% food poison chance"
+      ],
+      "conflicts": [
+        "impatientcook"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "impatientcook"
+        ],
+        "stats": [
+          "-0.8 cooking speed",
+          "-10.00% food poison chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_PatientCook",
+      "name": "patientcook"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy couldn't care less about following the recipes as long as he can get food into his mouth in record time.",
+      "stats": [
+        "+0.8 cooking speed",
+        "+10.00% food poison chance"
+      ],
+      "conflicts": [
+        "patientcook"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "patientcook"
+        ],
+        "stats": [
+          "+0.8 cooking speed",
+          "+10.00% food poison chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_ImpatientCook",
+      "name": "impatientcook"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy lives a healthy lifestyle, and wakes up feeling energetic and cheerful.",
+      "stats": [
+        "+10% rest rate multiplier",
+        "+10% immunity gain speed",
+        "+5% toxic resistance",
+        "+5% toxic environment resistance",
+        "+1.0C Maximum comfortable temperature",
+        "-1.0C Minimum comfortable temperature"
+      ],
+      "conflicts": [
+        "chronicallyill"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "chronicallyill"
+        ],
+        "stats": [
+          "+10% rest rate multiplier",
+          "+10% immunity gain speed",
+          "+5% toxic resistance",
+          "+5% toxic environment resistance",
+          "+1.0C Maximum comfortable temperature",
+          "-1.0C Minimum comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Healthy",
+      "name": "healthy"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy gets ill quite often, and seem to require more effort to get out of bed than the average person.",
+      "stats": [
+        "-10% rest rate multiplier",
+        "-10% immunity gain speed",
+        "-5% toxic resistance",
+        "-5% toxic environment resistance",
+        "-1.0C Maximum comfortable temperature",
+        "+1.0C Minimum comfortable temperature"
+      ],
+      "conflicts": [
+        "healthy"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "healthy"
+        ],
+        "stats": [
+          "-10% rest rate multiplier",
+          "-10% immunity gain speed",
+          "-5% toxic resistance",
+          "-5% toxic environment resistance",
+          "-1.0C Maximum comfortable temperature",
+          "+1.0C Minimum comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_ChronicallyIll",
+      "name": "chronicallyill"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is comfortable in all seasons.",
+      "stats": [
+        "+3.0C Maximum comfortable temperature",
+        "-3.0C Minimum comfortable temperature"
+      ],
+      "conflicts": [
+        "temperatureintolerant"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "temperatureintolerant"
+        ],
+        "stats": [
+          "+3.0C Maximum comfortable temperature",
+          "-3.0C Minimum comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_TemperatureTolerant",
+      "name": "temperaturetolerant"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy thinks that summer is way too hot, and winter is way too cold.",
+      "stats": [
+        "-3.0C Maximum comfortable temperature",
+        "+3.0C Minimum comfortable temperature"
+      ],
+      "conflicts": [
+        "temperaturetolerant"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "temperaturetolerant"
+        ],
+        "stats": [
+          "-3.0C Maximum comfortable temperature",
+          "+3.0C Minimum comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_TemperatureIntolerant",
+      "name": "temperatureintolerant"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has good reaction time and finds physical activities less stressful than his peers.",
+      "stats": [
+        "+2.0 shooting accuracy",
+        "+2.0 melee hit chance",
+        "+2.0 melee dodge chance"
+      ],
+      "conflicts": [
+        "clumsy"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "clumsy"
+        ],
+        "stats": [
+          "+2.0 shooting accuracy",
+          "+2.0 melee hit chance",
+          "+2.0 melee dodge chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Coordinated",
+      "name": "coordinated"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is easily distracted and often mess up when it comes to physical activities.",
+      "stats": [
+        "-2.0 shooting accuracy",
+        "-2.0 melee hit chance",
+        "-2.0 melee dodge chance"
+      ],
+      "conflicts": [
+        "coordinated"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "coordinated"
+        ],
+        "stats": [
+          "-2.0 shooting accuracy",
+          "-2.0 melee hit chance",
+          "-2.0 melee dodge chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Clumsy",
+      "name": "clumsy"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is what people refer to as a 'stronk boi'.",
+      "stats": [
+        "-10% incoming damage multiplier",
+        "+10% immunity gain speed",
+        "+10% toxic resistance",
+        "+10% toxic environment resistance",
+        "+1.0C Maximum comfortable temperature",
+        "-1.0C Minimum comfortable temperature"
+      ],
+      "conflicts": [
+        "fragile",
+        "feeble"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "fragile",
+          "feeble"
+        ],
+        "stats": [
+          "-10% incoming damage multiplier",
+          "+10% immunity gain speed",
+          "+10% toxic resistance",
+          "+10% toxic environment resistance",
+          "+1.0C Maximum comfortable temperature",
+          "-1.0C Minimum comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Hardy",
+      "name": "hardy"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is so fragile, it doesn't take much to take him out of action.",
+      "stats": [
+        "+10% incoming damage multiplier",
+        "-10% immunity gain speed",
+        "-10% toxic resistance",
+        "-10% toxic environment resistance",
+        "-1.0C Maximum comfortable temperature",
+        "+1.0C Minimum comfortable temperature"
+      ],
+      "conflicts": [
+        "resilient",
+        "hardy",
+        "tough"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "resilient",
+          "hardy",
+          "tough"
+        ],
+        "stats": [
+          "+10% incoming damage multiplier",
+          "-10% immunity gain speed",
+          "-10% toxic resistance",
+          "-10% toxic environment resistance",
+          "-1.0C Maximum comfortable temperature",
+          "+1.0C Minimum comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Feeble",
+      "name": "feeble"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Whether by sheer optimism or a force of personality, Timmy always manages to see the bright side of life.",
+      "stats": [
+        "+3 artistic"
+      ],
+      "conflicts": [
+        "constantlybemused"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "constantlybemused"
+        ],
+        "stats": [
+          "+3 artistic"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_EasilyAmused",
+      "name": "easilyamused"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Life to Timmy is an endless, boring joke that he just can't get away from.",
+      "stats": [
+        "-3 artistic"
+      ],
+      "conflicts": [
+        "easilyamused"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "easilyamused"
+        ],
+        "stats": [
+          "-3 artistic"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_ConstantlyBemused",
+      "name": "constantlybemused"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has an interest in understanding the workings of the world, and is able to apply his knowledge in daily life.",
+      "stats": [
+        "+4 intellectual",
+        "-5% mental break threshold"
+      ],
+      "conflicts": [
+        "ignorant"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "ignorant"
+        ],
+        "stats": [
+          "+4 intellectual",
+          "-5% mental break threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Inquisitive",
+      "name": "inquisitive"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Gaps in Timmy's education and general lack of curiosity makes life often stressful for him.",
+      "stats": [
+        "-4 intellectual",
+        "+5% mental break threshold"
+      ],
+      "conflicts": [
+        "inquisitive"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "inquisitive"
+        ],
+        "stats": [
+          "-4 intellectual",
+          "+5% mental break threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Ignorant",
+      "name": "ignorant"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy likes to keep his surroundings clean, and is used to being in an organised environment.",
+      "stats": [
+        "+5% rest rate multiplier",
+        "+5% global work speed",
+        "+15% cleaning speed multiplier"
+      ],
+      "conflicts": [
+        "messy"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "messy"
+        ],
+        "stats": [
+          "+5% rest rate multiplier",
+          "+5% global work speed",
+          "+15% cleaning speed multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Tidy",
+      "name": "tidy"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy often neglect their surroundings, making it difficult for him to get work done.",
+      "stats": [
+        "-5% rest rate multiplier",
+        "-5% global work speed",
+        "-15% cleaning speed multiplier"
+      ],
+      "conflicts": [
+        "tidy"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "tidy"
+        ],
+        "stats": [
+          "-5% rest rate multiplier",
+          "-5% global work speed",
+          "-15% cleaning speed multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "RT_Messy",
+      "name": "messy"
     }
   ],
   "races": [
@@ -4743,976 +6095,6 @@
       "enabled": true,
       "name": "human",
       "price": 2917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+120.00 Mass",
-          "+0% Flammability",
-          "+1000% Global certainty loss factor",
-          "-100.0 Beauty",
-          "+$3000 Market value",
-          "+4.15 Move speed",
-          "+500.0C Maximum comfortable temperature",
-          "-80.0C Minimum comfortable temperature",
-          "+100% Rest rate multiplier",
-          "+200% Eating speed",
-          "+40 Carrying capacity",
-          "+20 Meat amount",
-          "+30 Leather amount",
-          "+99% Pain shock threshold",
-          "+0% Psychic sensitivity",
-          "+1% Mental break threshold",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+0.0 Melee dodge chance",
-          "+1.0 Melee hit chance",
-          "+100% Aiming time",
-          "+1.0 Shooting accuracy",
-          "+0.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+10.00% Social impact",
-          "+0.00% Trade price improvement",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+100% General labor speed",
-          "+100% Construction speed",
-          "+100% Butchery efficiency",
-          "+100% Butchery speed",
-          "+100.00% Food poison chance",
-          "+1.0 Cooking speed",
-          "+100% Plant work speed",
-          "+150% Global learning factor",
-          "+100% Research speed",
-          "+100% Medical tend quality",
-          "+100% Drug synthesis speed",
-          "+100% Medical surgery success chance",
-          "+110% Immunity gain speed",
-          "+400% Mining speed",
-          "+50% Mining yield",
-          "+25.0% Armor - Blunt",
-          "+85.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "They are bioweapons recreated after Mechanoids by the Anties.\n\\Tri-Jaws are possessed only the most advanced Hives and are stationed at the last lines of defense.\n\nThey are equipped with A powerful red burst laser weapon can be fired at up to 2 people, and can be fired at 1 person while moving.\n\nIf the Tri-Jaws are seen on the battlefront, it means child's play is over.\n\n<i><color=#66E0E4FF>Anty the war ant race</color></i>",
-      "defName": "AT_TriJaw",
-      "enabled": true,
-      "name": "Anty Tri-Jaw",
-      "price": 5000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+320.00 Mass",
-          "+0% Flammability",
-          "+1000% Global certainty loss factor",
-          "-100.0 Beauty",
-          "+$3000 Market value",
-          "+4.15 Move speed",
-          "+500.0C Maximum comfortable temperature",
-          "-80.0C Minimum comfortable temperature",
-          "+100% Rest rate multiplier",
-          "+100% Eating speed",
-          "+110 Carrying capacity",
-          "+60 Meat amount",
-          "+30 Leather amount",
-          "+99% Pain shock threshold",
-          "+0% Psychic sensitivity",
-          "+1% Mental break threshold",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1.0 Melee dodge chance",
-          "+1.0 Melee hit chance",
-          "+100% Aiming time",
-          "+1.0 Shooting accuracy",
-          "+0.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+10.00% Social impact",
-          "+0.00% Trade price improvement",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+100% General labor speed",
-          "+100% Construction speed",
-          "+100% Butchery efficiency",
-          "+100% Butchery speed",
-          "+100.00% Food poison chance",
-          "+1.0 Cooking speed",
-          "+100% Plant work speed",
-          "+150% Global learning factor",
-          "+100% Research speed",
-          "+100% Medical tend quality",
-          "+100% Drug synthesis speed",
-          "+100% Medical surgery success chance",
-          "+110% Immunity gain speed",
-          "+400% Mining speed",
-          "+50% Mining yield",
-          "+45.0% Armor - Blunt",
-          "+95.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "They are bioweapons recreated after Mechanoids by the Anties.\n\nDreadnaughts are possessed only the most advanced Hives and are stationed at the last lines of defense.\n\nThey are equipped with low-angle intercepting systems. Unlike low-angle shields, they deny both incoming and outgoing projectiles.(Dlc) \n\nIf the dreadnaughts are seen on the battlefront, it means child's play is over.\n\n<i><color=#66E0E4FF>Anty the war ant race</color></i>",
-      "defName": "AT_dreadnought",
-      "enabled": true,
-      "name": "Anty Dreadnought",
-      "price": 5000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+520.00 Mass",
-          "+0% Flammability",
-          "+1000% Global certainty loss factor",
-          "-100.0 Beauty",
-          "+$3000 Market value",
-          "+2.15 Move speed",
-          "+500.0C Maximum comfortable temperature",
-          "-80.0C Minimum comfortable temperature",
-          "+100% Rest rate multiplier",
-          "+200% Eating speed",
-          "+110 Carrying capacity",
-          "+60 Meat amount",
-          "+30 Leather amount",
-          "+99% Pain shock threshold",
-          "+0% Psychic sensitivity",
-          "+1% Mental break threshold",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+0.0 Melee dodge chance",
-          "+1.0 Melee hit chance",
-          "+100% Aiming time",
-          "+1.0 Shooting accuracy",
-          "+0.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+10.00% Social impact",
-          "+0.00% Trade price improvement",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+100% General labor speed",
-          "+100% Construction speed",
-          "+100% Butchery efficiency",
-          "+100% Butchery speed",
-          "+100.00% Food poison chance",
-          "+1.0 Cooking speed",
-          "+100% Plant work speed",
-          "+150% Global learning factor",
-          "+100% Research speed",
-          "+100% Medical tend quality",
-          "+100% Drug synthesis speed",
-          "+100% Medical surgery success chance",
-          "+110% Immunity gain speed",
-          "+400% Mining speed",
-          "+50% Mining yield",
-          "+45.0% Armor - Blunt",
-          "+125.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "They are bioweapons recreated after Mechanoids by the Anties.\n\\Hive guard are possessed only the most advanced Hives and are stationed at the last lines of defense.\n\nThey are equipped with High-angle intercepting systems. Unlike High-angle shields, they deny both incoming and outgoing projectiles.(Dlc) \n\nIf the Hive guard are seen on the battlefront, it means child's play is over.\n\n<i><color=#66E0E4FF>Anty the war ant race</color></i>",
-      "defName": "AT_Hiveguard",
-      "enabled": true,
-      "name": "Anty Hive guard",
-      "price": 5000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+95.00 Mass",
-          "+200% Flammability",
-          "+1000% Global certainty loss factor",
-          "+100% Lifespan factor",
-          "-100.0 Beauty",
-          "+$8000 Market value",
-          "+5.00 Move speed",
-          "+28.0C Maximum comfortable temperature",
-          "+19.0C Minimum comfortable temperature",
-          "+100% Rest rate multiplier",
-          "+100% Eating speed",
-          "+110 Carrying capacity",
-          "+20 Meat amount",
-          "+40 Leather amount",
-          "+90% Pain shock threshold",
-          "+50% Psychic sensitivity",
-          "+40% Mental break threshold",
-          "-200% Toxic resistance",
-          "-50% Toxic environment resistance",
-          "+0.8 Melee dodge chance",
-          "+1.0 Melee hit chance",
-          "+100% Aiming time",
-          "+0.8 Shooting accuracy",
-          "+0.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+10.00% Social impact",
-          "+0.00% Trade price improvement",
-          "+120% Mechanoid shredding efficiency",
-          "+120% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+100% General labor speed",
-          "+125% Construction speed",
-          "+120% Butchery efficiency",
-          "+120% Butchery speed",
-          "+100.00% Food poison chance",
-          "+0.3 Cooking speed",
-          "+100% Plant work speed",
-          "+110% Global learning factor",
-          "+100% Research speed",
-          "+80% Medical tend quality",
-          "+100% Drug synthesis speed",
-          "+110% Medical surgery success chance",
-          "+100% Immunity gain speed",
-          "+200% Mining speed",
-          "+200% Deep drilling speed",
-          "+80% Mining yield",
-          "+0.1 Anty Egg Breeding Speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Anties are genetically engineered beings by a private company to replace dying soldiers on the battle field.\n\nEverything has gone south when the company has let their guard down to celebrate their recent progress. Due to a mistake made by one of the employees, the Anties have been set free from the lab and ended up in space.\n\nTheir personalities are gentle by nature, but they were made to know only but war. On each planet they end up, they burn everything down to ash, using themselves as the main source of the fuel.\n\nAnty is hermaphrodite, has no externally exposed reproductive organs, but has both a scrotum and ovaries in the abdomen.\n\nAnty's gender is indicated based on her reproductive system, which was a little more developed prior to consuming the Nutritional jelly.\n\nThe average height of common anty ergates and queen ants is 140cm, while soldier ants are 170cm. Depending on needs or the type of hive, it can transform or grow up to 200cm.\n\n<i><color=#66E0E4FF>Anty the war ant race</color></i>",
-      "defName": "Anty",
-      "enabled": true,
-      "name": "Anty",
-      "price": 13333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+4.60 Move speed",
-          "+16.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+3 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.\n\n<i><color=#66E0E4FF>Anty the war ant race</color></i>",
-      "defName": "Tribal_Proty",
-      "enabled": false,
-      "name": "human",
-      "price": 2917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+55.00 Mass",
-          "+100% Flammability",
-          "+150% Psychic sensitivity",
-          "+20% Toxic resistance",
-          "-5.0C Minimum comfortable temperature",
-          "+45.0C Maximum comfortable temperature",
-          "+30 Leather amount",
-          "+$1000 Market value",
-          "+4.40 Move speed",
-          "+200 Carrying capacity",
-          "+15% Mental break threshold",
-          "+50% Research speed",
-          "+50% Mining speed",
-          "+75.00% Social impact",
-          "+125% Plant work speed",
-          "+100% Plant harvest yield",
-          "+75% General labor speed",
-          "+125% Construction speed",
-          "+15.0% Armor - Blunt",
-          "+15.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Genetically modified giant sentient bee-ings. Originally created by humans as a terraforming bio-tool for the proliferation of angiosperms, these flightless bees are found on countless terraformed rimworlds.\n Apini are often wiped out by the point a planet reaches urbworld status. \n They possess some mamalian DNA, such as complex lung structure. Apini will also happily intergrate themselves into human \"hives\" if they feel like they have purpose.\n\n<i><color=#66E0E4FF>Apini Playable Race, Continued!</color></i>",
-      "defName": "Apini",
-      "enabled": true,
-      "name": "apini",
-      "price": 1667
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+200% Psychic sensitivity",
-          "+20% Toxic resistance",
-          "+5.0C Minimum comfortable temperature",
-          "+55.0C Maximum comfortable temperature",
-          "+45 Leather amount",
-          "+$1500 Market value",
-          "+5.00 Move speed",
-          "+300 Carrying capacity",
-          "+12% Mental break threshold",
-          "+50% Research speed",
-          "+50% Mining speed",
-          "+25.00% Social impact",
-          "+100% Plant work speed",
-          "+75% Plant harvest yield",
-          "+100% General labor speed",
-          "+125% Construction speed",
-          "+40.0% Armor - Blunt",
-          "+40.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "An azure offshoot of the Apini, Azuri are simple-minded ravenous insectoids with a swarm like structure. They propagate by laying their eggs in hapless Apini, eventually killing the host bee in the process.\nNoone knows where the Azuri originated from, but it is well known how they spread across the rim. Many an urbworld (with a government based on a basic set of ethics) have reached a level of development where the primitive Apini are an obstruction. However removing them would be considered genocide of sapient beings. To circumvent ethical laws, some leaders will stealthily import live Azuri eggs. \nThe Azuri are like wildfire; they will destroy all Apini hives they come across, hunting down any stragglers. Unfortunately, they do not prepare like Apini, often dying of starvation and cold (usually after they run out of to kill).\n\n“No, that's the beautiful part. When wintertime rolls around, the Azuri simply freeze to death”\n\n<i><color=#66E0E4FF>Apini Playable Race, Continued!</color></i>",
-      "defName": "Azuri",
-      "enabled": true,
-      "name": "azuri",
-      "price": 2500
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+55.00 Mass",
-          "+100% Flammability",
-          "+4.40 Move speed",
-          "+200 Carrying capacity",
-          "+125% Plant work speed",
-          "+100% Plant harvest yield",
-          "+60% General labor speed",
-          "+20.0% Armor - Blunt",
-          "+20.0% Armor - Sharp",
-          "+150% Psychic sensitivity",
-          "+20% Toxic resistance",
-          "-5.0C Minimum comfortable temperature",
-          "+45.0C Maximum comfortable temperature",
-          "+30 Leather amount",
-          "+$1000 Market value",
-          "+15% Mental break threshold",
-          "+50% Research speed",
-          "+50% Mining speed",
-          "+50.00% Social impact",
-          "+125% Construction speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "What happens if you want to terraform a planet that has very poor or even no soil? What if there are hostile flora and fauna? The Apini terraform and survive by planting and harvesting flowers. You would need to create a race that was better at fighting and able to use an alternate food source.A more hearty alternative for planets where the Apini can't survive long enough to terraform the planet.And so with a slight change to the Apini DNA, splicing in Vulture/Carrior bee genes, the Necropini were born. Stronger and more resistant than normal Apini, and with the ability to make “meat honey”;the Necropini (or Death Bees) were created to terraform worlds that normal Apini would not survive on.\n\n<i><color=#66E0E4FF>Apini Playable Race, Continued!</color></i>",
-      "defName": "Necropini",
-      "enabled": true,
-      "name": "necropini",
-      "price": 1667
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+55.00 Mass",
-          "+70% Flammability",
-          "+$1900 Market value",
-          "+5.60 Move speed",
-          "+130% Research speed",
-          "+110% Global work speed",
-          "+110% Global learning factor",
-          "+1.2 Melee dodge chance",
-          "+50 Leather amount",
-          "+16.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
-          "+4 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "The legacy of a fallen empire, with a distant link to the humanoid races of earth and beyond. Other than the fact that they began to awaken over the past century, no one knows much else about what they are, where they are from or fundamentals behind their technology, which seems to bridge the gap between science and magic.\n\n<i><color=#66E0E4FF>Forsakens</color></i>",
-      "defName": "Alien_Forsaken",
-      "enabled": true,
-      "name": "forsaken",
-      "price": 3167
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+$3500 Market value",
-          "+5.25 Move speed",
-          "+0.0C Minimum comfortable temperature",
-          "+36.0C Maximum comfortable temperature",
-          "+45 Leather amount",
-          "+3 Honor value",
-          "+90% Research speed",
-          "+125% Mining speed",
-          "+95.00% Social impact",
-          "+1.3 Melee dodge chance"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A bloodthirsty vulpine near-human.\n\n<i><color=#66E0E4FF>Revia Race</color></i>",
-      "defName": "ReviaRaceAlien",
-      "enabled": true,
-      "name": "Revia",
-      "price": 5833
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+80.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+5.60 Move speed",
-          "-8.0C Minimum comfortable temperature",
-          "+18.0C Maximum comfortable temperature",
-          "+3 Honor value",
-          "+20.0% Armor - Blunt",
-          "+50 Leather amount",
-          "+105% Global learning factor",
-          "+110% Pain shock threshold",
-          "+125% Psychic sensitivity",
-          "-85% Toxic resistance",
-          "+85% Plant work speed",
-          "+90% Plant harvest yield",
-          "+90.00% Social impact",
-          "+85.00% Negotiation ability",
-          "+85.00% Trade price improvement",
-          "+130% Hunting stealth",
-          "+105% General labor speed",
-          "+105% Drug synthesis speed",
-          "+105% Drug cooking speed",
-          "+110% Butchery efficiency",
-          "+115.00% Tame animal chance",
-          "+115.00% Train animal chance",
-          "+115% Animal gather speed",
-          "+90% Aiming time",
-          "+1.1 Shooting accuracy",
-          "+1.1 Melee dodge chance",
-          "+1.1 Melee hit chance",
-          "+85 Carrying capacity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Arachne race lineage can be traced back to Arachne homeworld where the temperature fluctuate between cold and warm.\nArachnes over thousands of generations began to adapt to these temperature and ables themselves to withstand cold but in return have less tolerance to the heat\n\n<i><color=#66E0E4FF>Arachne Race (Continued)</color></i>",
-      "defName": "Arachne",
-      "enabled": true,
-      "name": "arachne",
-      "price": 2917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+150% Flammability",
-          "+$1200 Market value",
-          "+2 Honor value",
-          "+4.70 Move speed",
-          "+25.0C Maximum comfortable temperature",
-          "-5.0C Minimum comfortable temperature",
-          "+100% Rest rate multiplier",
-          "+100% Eating speed",
-          "+75 Carrying capacity",
-          "+35 Meat amount",
-          "+45 Leather amount",
-          "+75% Pain shock threshold",
-          "+100% Psychic sensitivity",
-          "+40% Mental break threshold",
-          "+50% Toxic resistance",
-          "+50% Toxic environment resistance",
-          "+1.2 Melee dodge chance",
-          "+1.0 Melee hit chance",
-          "+100% Aiming time",
-          "+1.0 Shooting accuracy",
-          "+115.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+125.00% Social impact",
-          "+115.00% Trade price improvement",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+100% General labor speed",
-          "+100% Construction speed",
-          "+100% Butchery efficiency",
-          "+100% Butchery speed",
-          "+110.00% Food poison chance",
-          "+1.3 Cooking speed",
-          "+125% Plant work speed",
-          "+100% Global learning factor",
-          "+100% Research speed",
-          "+100% Medical tend quality",
-          "+150% Drug synthesis speed",
-          "+100% Medical surgery success chance",
-          "+105% Immunity gain speed",
-          "+90% Mining speed",
-          "+110% Mining yield",
-          "+0.0% Armor - Blunt",
-          "+0.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Yuran is an Ain race with the appearance of a rabbit, and its origin is not known precisely.\nAs a minority race with a small population, there are genetic problems and males do not exist. It continues.\nCentering on the Miko with special abilities that are passed on through blood lineage, they live in a small village-sized village and have faith in the large cherry tree in their hometown.\n\n<i><color=#66E0E4FF>Yuran race</color></i>",
-      "defName": "Yuran_Race",
-      "enabled": true,
-      "name": "Yuran",
-      "price": 2000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+52.00 Mass",
-          "+150% Flammability",
-          "+$2800 Market value",
-          "+10 Honor value",
-          "+4.75 Move speed",
-          "+25.0C Maximum comfortable temperature",
-          "+10.0C Minimum comfortable temperature",
-          "+100% Rest rate multiplier",
-          "+100% Eating speed",
-          "+75 Carrying capacity",
-          "+5 Meat amount",
-          "+5 Leather amount",
-          "+80% Pain shock threshold",
-          "+135% Psychic sensitivity",
-          "+25% Mental break threshold",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1.2 Melee dodge chance",
-          "+1.0 Melee hit chance",
-          "+100% Aiming time",
-          "+1.0 Shooting accuracy",
-          "+125.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+150.00% Social impact",
-          "+135.00% Trade price improvement",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+100% General labor speed",
-          "+100% Construction speed",
-          "+100% Butchery efficiency",
-          "+100% Butchery speed",
-          "+110.00% Food poison chance",
-          "+1.0 Cooking speed",
-          "+125% Plant work speed",
-          "+100% Global learning factor",
-          "+100% Research speed",
-          "+120% Medical tend quality",
-          "+150% Drug synthesis speed",
-          "+100% Medical surgery success chance",
-          "+105% Immunity gain speed",
-          "+50% Mining speed",
-          "+100% Mining yield",
-          "+0.0% Armor - Blunt",
-          "+0.0% Armor - Sharp",
-          "+220.00% Conversion power"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Miko serves and manages the village as a kind of duty for Yuran belonging to a family of special lineage.\n\n<i><color=#66E0E4FF>Yuran race</color></i>",
-      "defName": "Yuran_Race_Miko",
-      "enabled": true,
-      "name": "Yuran Miko",
-      "price": 4667
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+48.00 Mass",
-          "+0% Flammability",
-          "+$2800 Market value",
-          "+20 Honor value",
-          "+4.75 Move speed",
-          "+25.0C Maximum comfortable temperature",
-          "+10.0C Minimum comfortable temperature",
-          "+100% Rest rate multiplier",
-          "+100% Eating speed",
-          "+75 Carrying capacity",
-          "+5 Meat amount",
-          "+5 Leather amount",
-          "+90% Pain shock threshold",
-          "+185% Psychic sensitivity",
-          "+25% Mental break threshold",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1.2 Melee dodge chance",
-          "+1.0 Melee hit chance",
-          "+100% Aiming time",
-          "+1.0 Shooting accuracy",
-          "+175.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+250.00% Social impact",
-          "+145.00% Trade price improvement",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+100% General labor speed",
-          "+100% Construction speed",
-          "+100% Butchery efficiency",
-          "+100% Butchery speed",
-          "+110.00% Food poison chance",
-          "+1.0 Cooking speed",
-          "+125% Plant work speed",
-          "+120% Global learning factor",
-          "+100% Research speed",
-          "+120% Medical tend quality",
-          "+150% Drug synthesis speed",
-          "+100% Medical surgery success chance",
-          "+105% Immunity gain speed",
-          "+50% Mining speed",
-          "+100% Mining yield",
-          "+20.0% Armor - Blunt",
-          "+20.0% Armor - Sharp",
-          "+400.00% Conversion power",
-          "+4.0 Beauty"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "She is Miko who is fluent in curses.\nAccording to the record, she even overcame death.\n\n<i><color=#66E0E4FF>Yuran race</color></i>",
-      "defName": "Yuran_Race_Miko_BlackSnake",
-      "enabled": true,
-      "name": "Yuran BlackSnake",
-      "price": 4667
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+1.00 Mass",
-          "+100% Flammability",
-          "+$2000 Market value",
-          "+6.00 Move speed",
-          "-300.0C Minimum comfortable temperature",
-          "+9000.0C Maximum comfortable temperature",
-          "+100% Pain shock threshold",
-          "+9900% Immunity gain speed",
-          "+10% Construction speed",
-          "+10% Construct success chance",
-          "+10% Eating speed",
-          "+10% Mining speed",
-          "+80% Plant work speed",
-          "+150% Research speed",
-          "+150% Global learning factor",
-          "+0% Mental break threshold",
-          "+100% Medical tend speed",
-          "+120% Medical tend quality",
-          "+100% Medical operation speed",
-          "+120% Medical surgery success chance",
-          "+40.00% Tame animal chance",
-          "+40.00% Train animal chance",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+120% Psychic sensitivity",
-          "+5 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "not blank\n\n<i><color=#66E0E4FF>Zeta Reticulans (Player/Hostile Factions)</color></i>",
-      "defName": "GDZR_RACE_OrbAllowanceGene",
-      "enabled": false,
-      "name": "allowance orb",
-      "price": 3333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+50.00 Mass",
-          "+100% Flammability",
-          "+$10000 Market value",
-          "+4.80 Move speed",
-          "+3.0C Minimum comfortable temperature",
-          "+23.0C Maximum comfortable temperature",
-          "+95% Pain shock threshold",
-          "+0.1 Melee dodge chance",
-          "+92% Immunity gain speed",
-          "+90% Construction speed",
-          "+110% Construct success chance",
-          "+60% Mining speed",
-          "+80% Eating speed",
-          "+90% Plant work speed",
-          "+140% Research speed",
-          "+125% Global learning factor",
-          "+100% Medical tend speed",
-          "+100% Medical tend quality",
-          "+100% Medical operation speed",
-          "+100% Medical surgery success chance",
-          "+70.00% Tame animal chance",
-          "+70.00% Train animal chance",
-          "+20 Leather amount",
-          "+120% Psychic sensitivity",
-          "+7 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "<color=#aeaeae><b>The Assembly's biocracy</b></color> is composed of engineered clades diffused by task, with the primogenitor species of “Zetan Reticulan” forming the root of an organizational structure that can be traced back to an early genealogical disaster.\n    \n    <color=#aeaeae>A naturally evolved psy-limbic system assured that bio-development was the preferred path of their society's earliest transcendental technologies, superseding spaceflight by nearly a millennium as their world began to boil in the mucilage of it's new science. An innocuous beginning of curative therapies and natal screening quickly expanded into a hyper-evolutionary arms race as these new discoveries concentrated among those with first access. Fierce social competition drove mass grafting, therapeutic patches slowly modified the flesh, and expansive body cults formed. \n    \n    Genocide soon swept the surface of the Reticulan's homeworld as gene-jacked armies of morphomatic commandos clashed. The planet's population gored itself down from billions to thousands as the unchanged were hurled into great flesh pots and rend into ribonucleic mash. In time global infrastructure ground down due to brutal conflict, with vast areas of the planet turned into barren slate and blasted clay pits.\n    \n    In these first centuries of frenzy one of these catabolic kings, a neo-being who had taken the name of “Ze'tan”, came to know a deep regret for his part in the annihilation.\n    \n    Ze'tan in his shame retreated from the battlefield of the world above and slunk below his planet's frosted grey surface clay into the darkness beneath. Hundreds of kilometres under the planet's surface in a lattice work of deep natural chasms and machine bored tunnels he found redemption. In this hidden reticulum Ze'tan set up vast womb chambers and mapped a new genograph that closely resembled that of his original species before it was distorted by genetic crush; with only a minimum number of competitive gene-modifications added.\n    \n    Finally after years of bio-printing his reformist army Ze'Tan's reticulum emerged onto the mudded ruins of the old world. The remaining megalomanic super entities were trapped inside their assorted pleasure forts and lazed into vapour by the reticulum's resurgent legions. Pulsating flesh-circuit fields, the organic extension of distended genelich bodies, were put to light and from space the dimly lit sphere twinkled as clone legions cleansed the fallen remnants of their ancestors.\n    \n    During the global reconstruction that followed a set of advisories were established through who's adherence would safeguard the race's redux. Strictly regulated regime and compartmentalization were to be permanently enforced. Populations were sealed off in mass from one another to avoid another cascading failure like the initial biospiral that had almost claimed the race.</color>\n\n<i><color=#66E0E4FF>Zeta Reticulans (Player/Hostile Factions)</color></i>",
-      "defName": "GDZR_RACE_ShortForsaken",
-      "enabled": true,
-      "name": "forsaken hybrid, short",
-      "price": 16667
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+55.00 Mass",
-          "+100% Flammability",
-          "+$4000 Market value",
-          "+4.30 Move speed",
-          "+8.0C Minimum comfortable temperature",
-          "+23.0C Maximum comfortable temperature",
-          "+88% Pain shock threshold",
-          "+92% Immunity gain speed",
-          "+90% Construction speed",
-          "+110% Construct success chance",
-          "+80% Eating speed",
-          "+80% Mining speed",
-          "+90% Plant work speed",
-          "+110% Research speed",
-          "+120% Global learning factor",
-          "+100% Medical tend speed",
-          "+110% Medical tend quality",
-          "+100% Medical operation speed",
-          "+110% Medical surgery success chance",
-          "+70.00% Tame animal chance",
-          "+70.00% Train animal chance",
-          "+35 Leather amount",
-          "+110% Psychic sensitivity",
-          "+5 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "<color=#aeaeae><b>The Assembly's biocracy</b></color> is composed of engineered clades diffused by task, with the primogenitor species of “Zetan Reticulan” forming the root of an organizational structure that can be traced back to an early genealogical disaster.\n    \n    <color=#aeaeae>A naturally evolved psy-limbic system assured that bio-development was the preferred path of their society's earliest transcendental technologies, superseding spaceflight by nearly a millennium as their world began to boil in the mucilage of it's new science. An innocuous beginning of curative therapies and natal screening quickly expanded into a hyper-evolutionary arms race as these new discoveries concentrated among those with first access. Fierce social competition drove mass grafting, therapeutic patches slowly modified the flesh, and expansive body cults formed. \n    \n    Genocide soon swept the surface of the Reticulan's homeworld as gene-jacked armies of morphomatic commandos clashed. The planet's population gored itself down from billions to thousands as the unchanged were hurled into great flesh pots and rend into ribonucleic mash. In time global infrastructure ground down due to brutal conflict, with vast areas of the planet turned into barren slate and blasted clay pits.\n    \n    In these first centuries of frenzy one of these catabolic kings, a neo-being who had taken the name of “Ze'tan”, came to know a deep regret for his part in the annihilation.\n    \n    Ze'tan in his shame retreated from the battlefield of the world above and slunk below his planet's frosted grey surface clay into the darkness beneath. Hundreds of kilometres under the planet's surface in a lattice work of deep natural chasms and machine bored tunnels he found redemption. In this hidden reticulum Ze'tan set up vast womb chambers and mapped a new genograph that closely resembled that of his original species before it was distorted by genetic crush; with only a minimum number of competitive gene-modifications added.\n    \n    Finally after years of bio-printing his reformist army Ze'Tan's reticulum emerged onto the mudded ruins of the old world. The remaining megalomanic super entities were trapped inside their assorted pleasure forts and lazed into vapour by the reticulum's resurgent legions. Pulsating flesh-circuit fields, the organic extension of distended genelich bodies, were put to light and from space the dimly lit sphere twinkled as clone legions cleansed the fallen remnants of their ancestors.\n    \n    During the global reconstruction that followed a set of advisories were established through who's adherence would safeguard the race's redux. Strictly regulated regime and compartmentalization were to be permanently enforced. Populations were sealed off in mass from one another to avoid another cascading failure like the initial biospiral that had almost claimed the race.</color>\n\n<i><color=#66E0E4FF>Zeta Reticulans (Player/Hostile Factions)</color></i>",
-      "defName": "GDZR_RACE_ShortHuman",
-      "enabled": true,
-      "name": "human hybrid, short",
-      "price": 6667
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+57.50 Mass",
-          "+85% Flammability",
-          "+$4500 Market value",
-          "+4.65 Move speed",
-          "-10.0C Minimum comfortable temperature",
-          "+21.0C Maximum comfortable temperature",
-          "+88% Pain shock threshold",
-          "+92% Immunity gain speed",
-          "+0.0 Melee dodge chance",
-          "+0.1 Shooting accuracy",
-          "+0.2 Melee hit chance",
-          "+78% Construction speed",
-          "+98% Construct success chance",
-          "+72% Mining speed",
-          "+92% Mining yield",
-          "+80% Eating speed",
-          "+90% Plant work speed",
-          "+88% Drug cooking speed",
-          "+110% Research speed",
-          "+120% Global learning factor",
-          "+100% Medical tend speed",
-          "+110% Medical tend quality",
-          "+100% Medical operation speed",
-          "+110% Medical surgery success chance",
-          "+70.00% Tame animal chance",
-          "+70.00% Train animal chance",
-          "+20 Leather amount",
-          "+120% Psychic sensitivity",
-          "+7 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "<color=#aeaeae><b>The Assembly's biocracy</b></color> is composed of engineered clades diffused by task, with the primogenitor species of “Zetan Reticulan” forming the root of an organizational structure that can be traced back to an early genealogical disaster.\n    \n    <color=#aeaeae>A naturally evolved psy-limbic system assured that bio-development was the preferred path of their society's earliest transcendental technologies, superseding spaceflight by nearly a millennium as their world began to boil in the mucilage of it's new science. An innocuous beginning of curative therapies and natal screening quickly expanded into a hyper-evolutionary arms race as these new discoveries concentrated among those with first access. Fierce social competition drove mass grafting, therapeutic patches slowly modified the flesh, and expansive body cults formed. \n    \n    Genocide soon swept the surface of the Reticulan's homeworld as gene-jacked armies of morphomatic commandos clashed. The planet's population gored itself down from billions to thousands as the unchanged were hurled into great flesh pots and rend into ribonucleic mash. In time global infrastructure ground down due to brutal conflict, with vast areas of the planet turned into barren slate and blasted clay pits.\n    \n    In these first centuries of frenzy one of these catabolic kings, a neo-being who had taken the name of “Ze'tan”, came to know a deep regret for his part in the annihilation.\n    \n    Ze'tan in his shame retreated from the battlefield of the world above and slunk below his planet's frosted grey surface clay into the darkness beneath. Hundreds of kilometres under the planet's surface in a lattice work of deep natural chasms and machine bored tunnels he found redemption. In this hidden reticulum Ze'tan set up vast womb chambers and mapped a new genograph that closely resembled that of his original species before it was distorted by genetic crush; with only a minimum number of competitive gene-modifications added.\n    \n    Finally after years of bio-printing his reformist army Ze'Tan's reticulum emerged onto the mudded ruins of the old world. The remaining megalomanic super entities were trapped inside their assorted pleasure forts and lazed into vapour by the reticulum's resurgent legions. Pulsating flesh-circuit fields, the organic extension of distended genelich bodies, were put to light and from space the dimly lit sphere twinkled as clone legions cleansed the fallen remnants of their ancestors.\n    \n    During the global reconstruction that followed a set of advisories were established through who's adherence would safeguard the race's redux. Strictly regulated regime and compartmentalization were to be permanently enforced. Populations were sealed off in mass from one another to avoid another cascading failure like the initial biospiral that had almost claimed the race.</color>\n\n<i><color=#66E0E4FF>Zeta Reticulans (Player/Hostile Factions)</color></i>",
-      "defName": "GDZR_RACE_ShortMantis",
-      "enabled": true,
-      "name": "Mantis hybrid, short",
-      "price": 7500
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+75% Flammability",
-          "+$7000 Market value",
-          "+4.00 Move speed",
-          "-1.0C Minimum comfortable temperature",
-          "+20.0C Maximum comfortable temperature",
-          "+85% Pain shock threshold",
-          "+98% Immunity gain speed",
-          "+92% General labor speed",
-          "+90% Construction speed",
-          "+110% Construct success chance",
-          "+80% Eating speed",
-          "+80% Mining speed",
-          "+90% Plant work speed",
-          "+110% Research speed",
-          "+120% Global learning factor",
-          "+115% Drug synthesis speed",
-          "+110% Medical tend speed",
-          "+117% Medical tend quality",
-          "+100% Medical operation speed",
-          "+105% Medical surgery success chance",
-          "+0.9 Melee dodge chance",
-          "+70.00% Tame animal chance",
-          "+70.00% Train animal chance",
-          "+40 Leather amount",
-          "+110% Psychic sensitivity",
-          "+5 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "<color=#aeaeae><b>The Assembly's biocracy</b></color> is composed of engineered clades diffused by task, with the primogenitor species of “Zetan Reticulan” forming the root of an organizational structure that can be traced back to an early genealogical disaster.\n      \n      <color=#aeaeae>A naturally evolved psy-limbic system assured that bio-development was the preferred path of their society's earliest transcendental technologies, superseding spaceflight by nearly a millennium as their world began to boil in the mucilage of it's new science. An innocuous beginning of curative therapies and natal screening quickly expanded into a hyper-evolutionary arms race as these new discoveries concentrated among those with first access. Fierce social competition drove mass grafting, therapeutic patches slowly modified the flesh, and expansive body cults formed. \n      \n      Genocide soon swept the surface of the Reticulan's homeworld as gene-jacked armies of morphomatic commandos clashed. The planet's population gored itself down from billions to thousands as the unchanged were hurled into great flesh pots and rend into ribonucleic mash. In time global infrastructure ground down due to brutal conflict, with vast areas of the planet turned into barren slate and blasted clay pits.\n      \n      In these first centuries of frenzy one of these catabolic kings, a neo-being who had taken the name of “Ze'tan”, came to know a deep regret for his part in the annihilation.\n      \n      Ze'tan in his shame retreated from the battlefield of the world above and slunk below his planet's frosted grey surface clay into the darkness beneath. Hundreds of kilometres under the planet's surface in a lattice work of deep natural chasms and machine bored tunnels he found redemption. In this hidden reticulum Ze'tan set up vast womb chambers and mapped a new genograph that closely resembled that of his original species before it was distorted by genetic crush; with only a minimum number of competitive gene-modifications added.\n      \n      Finally after years of bio-printing his reformist army Ze'Tan's reticulum emerged onto the mudded ruins of the old world. The remaining megalomanic super entities were trapped inside their assorted pleasure forts and lazed into vapour by the reticulum's resurgent legions. Pulsating flesh-circuit fields, the organic extension of distended genelich bodies, were put to light and from space the dimly lit sphere twinkled as clone legions cleansed the fallen remnants of their ancestors.\n      \n      During the global reconstruction that followed a set of advisories were established through who's adherence would safeguard the race's redux. Strictly regulated regime and compartmentalization were to be permanently enforced. Populations were sealed off in mass from one another to avoid another cascading failure like the initial biospiral that had almost claimed the race.</color>\n\n<i><color=#66E0E4FF>Zeta Reticulans (Player/Hostile Factions)</color></i>",
-      "defName": "GDZR_RACE_ShortMoyo",
-      "enabled": true,
-      "name": "moyo hybrid, short",
-      "price": 11667
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+55.00 Mass",
-          "+100% Flammability",
-          "+$6000 Market value",
-          "+4.00 Move speed",
-          "+10.0C Minimum comfortable temperature",
-          "+33.0C Maximum comfortable temperature",
-          "+85% Pain shock threshold",
-          "+92% Immunity gain speed",
-          "-25% Toxic resistance",
-          "+80% Construction speed",
-          "+120% Construct success chance",
-          "+80% Eating speed",
-          "+80% Mining speed",
-          "+90% Plant work speed",
-          "+110% Research speed",
-          "+120% Global learning factor",
-          "+100% Medical tend speed",
-          "+105% Medical tend quality",
-          "+100% Medical operation speed",
-          "+105% Medical surgery success chance",
-          "+70.00% Tame animal chance",
-          "+70.00% Train animal chance",
-          "+40 Leather amount",
-          "+110% Psychic sensitivity",
-          "+5 Honor value",
-          "+3.0% Armor - Blunt",
-          "+6.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "<color=#aeaeae><b>The Assembly's biocracy</b></color> is composed of engineered clades diffused by task, with the primogenitor species of “Zetan Reticulan” forming the root of an organizational structure that can be traced back to an early genealogical disaster.\n      \n      <color=#aeaeae>A naturally evolved psy-limbic system assured that bio-development was the preferred path of their society's earliest transcendental technologies, superseding spaceflight by nearly a millennium as their world began to boil in the mucilage of it's new science. An innocuous beginning of curative therapies and natal screening quickly expanded into a hyper-evolutionary arms race as these new discoveries concentrated among those with first access. Fierce social competition drove mass grafting, therapeutic patches slowly modified the flesh, and expansive body cults formed. \n      \n      Genocide soon swept the surface of the Reticulan's homeworld as gene-jacked armies of morphomatic commandos clashed. The planet's population gored itself down from billions to thousands as the unchanged were hurled into great flesh pots and rend into ribonucleic mash. In time global infrastructure ground down due to brutal conflict, with vast areas of the planet turned into barren slate and blasted clay pits.\n      \n      In these first centuries of frenzy one of these catabolic kings, a neo-being who had taken the name of “Ze'tan”, came to know a deep regret for his part in the annihilation.\n      \n      Ze'tan in his shame retreated from the battlefield of the world above and slunk below his planet's frosted grey surface clay into the darkness beneath. Hundreds of kilometres under the planet's surface in a lattice work of deep natural chasms and machine bored tunnels he found redemption. In this hidden reticulum Ze'tan set up vast womb chambers and mapped a new genograph that closely resembled that of his original species before it was distorted by genetic crush; with only a minimum number of competitive gene-modifications added.\n      \n      Finally after years of bio-printing his reformist army Ze'Tan's reticulum emerged onto the mudded ruins of the old world. The remaining megalomanic super entities were trapped inside their assorted pleasure forts and lazed into vapour by the reticulum's resurgent legions. Pulsating flesh-circuit fields, the organic extension of distended genelich bodies, were put to light and from space the dimly lit sphere twinkled as clone legions cleansed the fallen remnants of their ancestors.\n      \n      During the global reconstruction that followed a set of advisories were established through who's adherence would safeguard the race's redux. Strictly regulated regime and compartmentalization were to be permanently enforced. Populations were sealed off in mass from one another to avoid another cascading failure like the initial biospiral that had almost claimed the race.</color>\n\n<i><color=#66E0E4FF>Zeta Reticulans (Player/Hostile Factions)</color></i>",
-      "defName": "GDZR_RACE_ShortScalemen",
-      "enabled": true,
-      "name": "scalemen hybrid, short",
-      "price": 10000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+45.00 Mass",
-          "+100% Flammability",
-          "+$2000 Market value",
-          "+4.00 Move speed",
-          "-5.0C Minimum comfortable temperature",
-          "+10.0C Maximum comfortable temperature",
-          "+95% Pain shock threshold",
-          "+85% Immunity gain speed",
-          "+80% Construction speed",
-          "+120% Construct success chance",
-          "+60% Eating speed",
-          "+60% Mining speed",
-          "+80% Plant work speed",
-          "+150% Research speed",
-          "+150% Global learning factor",
-          "+100% Medical tend speed",
-          "+120% Medical tend quality",
-          "+100% Medical operation speed",
-          "+120% Medical surgery success chance",
-          "+40.00% Tame animal chance",
-          "+40.00% Train animal chance",
-          "+30 Leather amount",
-          "+120% Psychic sensitivity",
-          "+5 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "<color=#aeaeae><b>The Assembly's biocracy</b></color> is composed of engineered clades diffused by task, with the primogenitor species of “Zetan Reticulan” forming the root of an organizational structure that can be traced back to an early genealogical disaster.\n    \n             <color=#aeaeae>A naturally evolved psy-limbic system assured that bio-development was the preferred path of their society's earliest transcendental technologies, superseding spaceflight by nearly a millennium as their world began to boil in the mucilage of it's new science. An innocuous beginning of curative therapies and natal screening quickly expanded into a hyper-evolutionary arms race as these new discoveries concentrated among those with first access. Fierce social competition drove mass grafting, therapeutic patches slowly modified the flesh, and expansive body cults formed. \n    \n       Genocide soon swept the surface of the Reticulan's homeworld as gene-jacked armies of morphomatic commandos clashed. The planet's population gored itself down from billions to thousands as the unchanged were hurled into great flesh pots and rend into ribonucleic mash. In time global infrastructure ground down due to brutal conflict, with vast areas of the planet turned into barren slate and blasted clay pits.\n    \n    In these first centuries of frenzy one of these catabolic kings, a neo-being who had taken the name of “Ze'tan”, came to know a deep regret for his part in the annihilation.\n    \n      Ze'tan in his shame retreated from the battlefield of the world above and slunk below his planet's frosted grey surface clay into the darkness beneath. Hundreds of kilometres under the planet's surface in a lattice work of deep natural chasms and machine bored tunnels he found redemption. In this hidden reticulum Ze'tan set up vast womb chambers and mapped a new genograph that closely resembled that of his original species before it was distorted by genetic crush; with only a minimum number of competitive gene-modifications added.\n    \n        Finally after years of bio-printing his reformist army Ze'Tan's reticulum emerged onto the mudded ruins of the old world. The remaining megalomanic super entities were trapped inside their assorted pleasure forts and lazed into vapour by the reticulum's resurgent legions. Pulsating flesh-circuit fields, the organic extension of distended genelich bodies, were put to light and from space the dimly lit sphere twinkled as clone legions cleansed the fallen remnants of their ancestors.\n    \n      During the global reconstruction that followed a set of advisories were established through who's adherence would safeguard the race's redux. Strictly regulated regime and compartmentalization were to be permanently enforced. Populations were sealed off in mass from one another to avoid another cascading failure like the initial biospiral that had almost claimed the race.</color>\n\n<i><color=#66E0E4FF>Zeta Reticulans (Player/Hostile Factions)</color></i>",
-      "defName": "GDZR_RACE_ShortZetaReticulan",
-      "enabled": true,
-      "name": "grey, short",
-      "price": 3333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+62.50 Mass",
-          "+75% Flammability",
-          "+$7500 Market value",
-          "+4.30 Move speed",
-          "-2.0C Minimum comfortable temperature",
-          "+23.0C Maximum comfortable temperature",
-          "+88% Pain shock threshold",
-          "+92% Immunity gain speed",
-          "+116% Aiming time",
-          "+90% Incoming damage multiplier",
-          "+15.0% Armor - Sharp",
-          "+5.0% Armor - Blunt",
-          "+10.0% Armor - Heat",
-          "+100 Carrying capacity",
-          "+90% Construction speed",
-          "+110% Construct success chance",
-          "+80% Eating speed",
-          "+80% Mining speed",
-          "+100% Plant work speed",
-          "+95% Research speed",
-          "+120% Global learning factor",
-          "+80% Drug synthesis speed",
-          "+100% Medical tend speed",
-          "+120% Medical tend quality",
-          "+100% Medical operation speed",
-          "+120% Medical surgery success chance",
-          "+75.00% Tame animal chance",
-          "+75.00% Train animal chance",
-          "+110% Animal gather yield",
-          "+47 Leather amount",
-          "+0.3 Beauty",
-          "+110.00% Negotiation ability",
-          "+110% Psychic sensitivity",
-          "+6 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "<color=#aeaeae><b>The Assembly's biocracy</b></color> is composed of engineered clades diffused by task, with the primogenitor species of “Zetan Reticulan” forming the root of an organizational structure that can be traced back to an early genealogical disaster.\n      \n      <color=#aeaeae>A naturally evolved psy-limbic system assured that bio-development was the preferred path of their society's earliest transcendental technologies, superseding spaceflight by nearly a millennium as their world began to boil in the mucilage of it's new science. An innocuous beginning of curative therapies and natal screening quickly expanded into a hyper-evolutionary arms race as these new discoveries concentrated among those with first access. Fierce social competition drove mass grafting, therapeutic patches slowly modified the flesh, and expansive body cults formed. \n      \n      Genocide soon swept the surface of the Reticulan's homeworld as gene-jacked armies of morphomatic commandos clashed. The planet's population gored itself down from billions to thousands as the unchanged were hurled into great flesh pots and rend into ribonucleic mash. In time global infrastructure ground down due to brutal conflict, with vast areas of the planet turned into barren slate and blasted clay pits.\n      \n      In these first centuries of frenzy one of these catabolic kings, a neo-being who had taken the name of “Ze'tan”, came to know a deep regret for his part in the annihilation.\n      \n      Ze'tan in his shame retreated from the battlefield of the world above and slunk below his planet's frosted grey surface clay into the darkness beneath. Hundreds of kilometres under the planet's surface in a lattice work of deep natural chasms and machine bored tunnels he found redemption. In this hidden reticulum Ze'tan set up vast womb chambers and mapped a new genograph that closely resembled that of his original species before it was distorted by genetic crush; with only a minimum number of competitive gene-modifications added.\n      \n      Finally after years of bio-printing his reformist army Ze'Tan's reticulum emerged onto the mudded ruins of the old world. The remaining megalomanic super entities were trapped inside their assorted pleasure forts and lazed into vapour by the reticulum's resurgent legions. Pulsating flesh-circuit fields, the organic extension of distended genelich bodies, were put to light and from space the dimly lit sphere twinkled as clone legions cleansed the fallen remnants of their ancestors.\n      \n      During the global reconstruction that followed a set of advisories were established through who's adherence would safeguard the race's redux. Strictly regulated regime and compartmentalization were to be permanently enforced. Populations were sealed off in mass from one another to avoid another cascading failure like the initial biospiral that had almost claimed the race.</color>\n\n<i><color=#66E0E4FF>Zeta Reticulans (Player/Hostile Factions)</color></i>",
-      "defName": "GDZR_RACE_ShortThrumkin",
-      "enabled": true,
-      "name": "thrumkin hybrid, short",
-      "price": 12500
     }
   ]
 }
