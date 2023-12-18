@@ -1,7 +1,25 @@
 [
   {
+    "author": "SheiFoxy",
+    "name": "SF Grim Reality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Soul, Phaneron and Bradson",
+    "name": "Adaptive Storage Neolithic Module",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "Allow Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "spoonshortage",
+    "name": "A Dog Said... Animal Prosthetics",
     "steamId": null,
     "version": null
   },
@@ -14,24 +32,6 @@
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
     "name": "Vanilla Cooking Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roo",
-    "name": "Anty the war ant race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Brent Kerman",
-    "name": "BK's Babies can eat Nutrient Paste",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "无声飞雪",
-    "name": "Better Mechanoid Loot (重写)",
     "steamId": null,
     "version": null
   },
@@ -108,6 +108,30 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Tribals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Boats (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "TranslucencY",
+    "name": "Brain In a Jar",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Happycam",
+    "name": "Christmas Trees Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Hatti",
     "name": "CleaningArea",
     "steamId": null,
@@ -116,6 +140,18 @@
   {
     "author": "Sea",
     "name": "Consistent Gene Inheritance",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "DLC Mechanics Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Pyrce",
+    "name": "Dire Raids",
     "steamId": null,
     "version": null
   },
@@ -150,8 +186,8 @@
     "version": null
   },
   {
-    "author": "Kikohi",
-    "name": "Forsakens",
+    "author": "Malistaticy",
+    "name": "Extinguish Refuelables",
     "steamId": null,
     "version": null
   },
@@ -181,12 +217,6 @@
   },
   {
     "author": "AobaKuma",
-    "name": "Fortifications - Medieval - Material",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AobaKuma",
     "name": "Fortifications - Neolithic",
     "steamId": null,
     "version": null
@@ -198,32 +228,20 @@
     "version": null
   },
   {
+    "author": "Bonible",
+    "name": "Gore Upon Dismemberment Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Plants Expanded",
+    "name": "Vanilla Cooking Expanded - Stews",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Sarg Bjornson and Oskar Potocki",
-    "name": "Vanilla Plants Expanded - More Plants",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "DaLLaN",
-    "name": "Hardworking animals 1.4",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ykara (Updated for 1.1 by Ogliss)",
-    "name": "Harvest Everything!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Smuffle",
-    "name": "Harvest Organs Post Mortem",
+    "author": "MallowYellow",
+    "name": "Hemogen Cuisine",
     "steamId": null,
     "version": null
   },
@@ -270,6 +288,18 @@
     "version": null
   },
   {
+    "author": "CaptainGeorge",
+    "name": "Malnutrition Reworked",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Udon",
+    "name": "Mass Lovin'",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Witek",
     "name": "Mechs can haul to charger",
     "steamId": null,
@@ -282,6 +312,18 @@
     "version": null
   },
   {
+    "author": "AobaKuma",
+    "name": "Fortifications - Medieval - Material",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "zenlor",
+    "name": "Medieval Overhaul Tweaks",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Haplo",
     "name": "Misc. Training",
     "steamId": null,
@@ -290,6 +332,24 @@
   {
     "author": "Bonible",
     "name": "Modded Weapon Sound Replacement",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sinnamon and MrKev",
+    "name": "More Ritual Rewards (1.4)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oldking",
+    "name": "Multi-Bed Royalty Patch (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "[JDS] Simple Storage",
     "steamId": null,
     "version": null
   },
@@ -320,6 +380,72 @@
   {
     "author": "Oskar Potocki, Sarg Bjornson and Erin",
     "name": "Vanilla Animals Expanded — Royal Animals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Outland - Furniture & Decor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Outland - Motz Coalition",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, AveryTheKitty and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Coilguns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Heavy Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Quickdraw",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Luizi and xrushha",
+    "name": "Vanilla Weapons Expanded - Frontier",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Expanded - Ideology Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Expanded - Royalty Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Meltup and Sicarious",
+    "name": "Polyamory Beds (Vanilla Edition)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "seeki",
+    "name": "Prioritize Meals over Preserved Foods",
     "steamId": null,
     "version": null
   },
@@ -372,6 +498,36 @@
     "version": null
   },
   {
+    "author": "Sierra",
+    "name": "RimTraits - General Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rooboid and Zelan",
+    "name": "Roo's Minotaur Xenotype Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rooboid and Zelan",
+    "name": "Roo's Faun Xenotype",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Trunken",
+    "name": "Vanilla Apparel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rooboid and Zelan",
+    "name": "Roo's Satyr and Faun Xenotypes Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Mlie",
     "name": "Ruined Is Unfertilized",
     "steamId": null,
@@ -414,6 +570,18 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Plants Expanded - More Plants",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "OptimusPrimordial Ported by Kobo",
     "name": "Simple Algae - 'VPE More Plants' Addon",
     "steamId": null,
@@ -426,26 +594,20 @@
     "version": null
   },
   {
-    "author": "moronic",
-    "name": "Arachne Race (Continued)",
+    "author": "dhultgren",
+    "name": "Smarter Construction",
     "steamId": null,
     "version": null
   },
   {
-    "author": "IcyCheeseCake",
-    "name": "TasteOfVanilla-ish Arachne Race",
+    "author": "Linkolas",
+    "name": "Stabilize",
     "steamId": null,
     "version": null
   },
   {
     "author": "MO",
     "name": "Technical Vehicles",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "BlackMarket420",
-    "name": "The Army Of Fetid Corpses",
     "steamId": null,
     "version": null
   },
@@ -462,12 +624,6 @@
     "version": null
   },
   {
-    "author": "Owlchemist",
-    "name": "Toggleable Shields",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Smash Phil",
     "name": "Trade Ships Drop Spot",
     "steamId": null,
@@ -476,6 +632,24 @@
   {
     "author": "CaptainGeorge",
     "name": "Traders Have Money",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Grimm",
+    "name": "Un-Limited",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BattIeBear",
+    "name": "Undergrounders: Complete",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BattIeBear",
+    "name": "Undergrounders: Deep Fabrics",
     "steamId": null,
     "version": null
   },
@@ -504,12 +678,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Trunken",
-    "name": "Vanilla Apparel Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, xrushha and SmashPhil",
     "name": "Vanilla Apparel Expanded — Accessories",
     "steamId": null,
@@ -528,48 +696,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Cooking Expanded - Stews",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, AveryTheKitty and Taranchuk",
-    "name": "Vanilla Weapons Expanded - Coilguns",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Weapons Expanded - Heavy Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Quickdraw",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Luizi and xrushha",
-    "name": "Vanilla Weapons Expanded - Frontier",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Expanded - Ideology Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Expanded - Royalty Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and Kikohi",
     "name": "Vanilla Chemfuel Expanded",
     "steamId": null,
@@ -584,18 +710,6 @@
   {
     "author": "Broms",
     "name": "Vanilla Expanded Pipe Network Categories",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Furniture Expanded - Props and Decor",
     "steamId": null,
     "version": null
   },
@@ -733,25 +847,7 @@
   },
   {
     "author": "JangoD'soul",
-    "name": "[JDS] Simple Storage",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "JangoD'soul",
     "name": "[JDS] Simple Storage - Refrigeration",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roo",
-    "name": "Yuran race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "GarbageDayIsHereToStay",
-    "name": "Zeta Reticulans [Player/Hostile Factions]",
     "steamId": null,
     "version": null
   },
@@ -763,31 +859,19 @@
   },
   {
     "author": "FrozenSnowFox",
-    "name": "[FSF] Filth Vanishes With Rain And Time",
+    "name": "[FSF] Better Ancient Complex Loot",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Shadowrabbit",
-    "name": "[SR]Raid Extension",
+    "author": "Ykara (Updated for 1.1 by Ogliss)",
+    "name": "Harvest Everything!",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Grimm",
-    "name": "Un-Limited",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "BattIeBear",
-    "name": "Undergrounders: Complete",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "BattIeBear",
-    "name": "Undergrounders: Deep Fabrics",
+    "author": "Smuffle",
+    "name": "Harvest Organs Post Mortem",
     "steamId": null,
     "version": null
   },
@@ -798,20 +882,20 @@
     "version": null
   },
   {
-    "author": "Rooboid and Zelan",
-    "name": "Roo's Faun Xenotype",
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Filth Vanishes With Rain And Time",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Rooboid and Zelan",
-    "name": "Roo's Minotaur Xenotype Expanded",
+    "author": "Derek Bickley",
+    "name": "[JAIL] Prison Walls",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Rooboid and Zelan",
-    "name": "Roo's Satyr and Faun Xenotypes Expanded",
+    "author": "Shadowrabbit",
+    "name": "[SR]Raid Extension",
     "steamId": null,
     "version": null
   }
