@@ -5797,6 +5797,186 @@
       },
       "defName": "VFEP_WarcasketTrait_Mech",
       "name": "mechwarcasket"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is the Everchosen of the gods, blessed by each of the four gods to carry out their will and invade the mortal world on behalf of chaos.",
+      "stats": [
+        "+50% global learning factor",
+        "+66.6% Armor - Blunt",
+        "+66.6% Armor - Sharp",
+        "+66.6% Armor - Heat",
+        "x0% mental break threshold",
+        "x50% incoming damage multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+50% global learning factor",
+          "+66.6% Armor - Blunt",
+          "+66.6% Armor - Sharp",
+          "+66.6% Armor - Heat",
+          "x0% mental break threshold",
+          "x50% incoming damage multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Warhammer 40.000 - Mutations",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BEWH_Everchosen",
+      "name": "everchosen"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is blessed by Khorne.",
+      "stats": [
+        "+2 shooting",
+        "+2 melee",
+        "+0.2 melee hit chance",
+        "-5% melee cooldown",
+        "-5% ranged cooldown multiplier",
+        "-5% aiming time",
+        "+5% melee damage factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 shooting",
+          "+2 melee",
+          "+0.2 melee hit chance",
+          "-5% melee cooldown",
+          "-5% ranged cooldown multiplier",
+          "-5% aiming time",
+          "+5% melee damage factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Warhammer 40.000 - Mutations",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BEWH_BlessingOfKhorne",
+      "name": "blessingofkhorne"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is blessed by Nurgle.",
+      "stats": [
+        "+2 plants",
+        "+2 cooking",
+        "-10% stagger time multiplier",
+        "+10.0% Armor - Blunt",
+        "+10.0% Armor - Sharp",
+        "+10.0% Armor - Heat",
+        "x90% incoming damage multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 plants",
+          "+2 cooking",
+          "-10% stagger time multiplier",
+          "+10.0% Armor - Blunt",
+          "+10.0% Armor - Sharp",
+          "+10.0% Armor - Heat",
+          "x90% incoming damage multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Warhammer 40.000 - Mutations",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BEWH_BlessingOfNurgle",
+      "name": "blessingofnurgle"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is blessed by Tzeentch.",
+      "stats": [
+        "+2 intellectual",
+        "+2 crafting",
+        "+30% psychic sensitivity",
+        "+15% / day meditation psyfocus gain",
+        "+0.20 neural heat recovery rate"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 intellectual",
+          "+2 crafting",
+          "+30% psychic sensitivity",
+          "+15% / day meditation psyfocus gain",
+          "+0.20 neural heat recovery rate"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Warhammer 40.000 - Mutations",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BEWH_BlessingOfTzeentch",
+      "name": "blessingoftzeentch"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is blessed by Slaanesh.",
+      "stats": [
+        "+2 social",
+        "+2 artistic",
+        "+5.0 melee dodge chance",
+        "-5% mental break threshold",
+        "+0.20 move speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 social",
+          "+2 artistic",
+          "+5.0 melee dodge chance",
+          "-5% mental break threshold",
+          "+0.20 move speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Warhammer 40.000 - Mutations",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BEWH_BlessingOfSlaanesh",
+      "name": "blessingofslaanesh"
     }
   ],
   "races": [
