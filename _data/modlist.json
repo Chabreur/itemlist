@@ -1,31 +1,7 @@
 [
   {
-    "author": "SheiFoxy",
-    "name": "SF Grim Reality",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Soul, Phaneron and Bradson",
-    "name": "Adaptive Storage Neolithic Module",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "Allow Tool",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "spoonshortage",
-    "name": "A Dog Said... Animal Prosthetics",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Books Expanded",
     "steamId": null,
     "version": null
   },
@@ -36,14 +12,20 @@
     "version": null
   },
   {
-    "author": "无声飞雪",
-    "name": "Better Mechanoid Loot (重写)",
+    "author": "explodoboy",
+    "name": "Ambition of the Cosmic",
     "steamId": null,
     "version": null
   },
   {
     "author": "explodoboy",
-    "name": "Ambition of the Cosmic",
+    "name": "Ambition of the Cosmic: True Pinnacle of Creation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "explodoboy",
+    "name": "Ambition of the Cosmic: You're Going Too Far (SNS: AOTC Reskin)",
     "steamId": null,
     "version": null
   },
@@ -54,38 +36,8 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Furniture Expanded - Art",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AOBA",
-    "name": "Engine Industries",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "RimThunderTeams",
-    "name": "RimThunder - Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Aoba",
-    "name": "RimThunder - Roaring Tiger",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Armour Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Bambaryła, ThatBartGuy and soldierGG1",
-    "name": "Beyond the Ambition of the Cosmic",
+    "author": "无声飞雪",
+    "name": "Better Mechanoid Loot (重写)",
     "steamId": null,
     "version": null
   },
@@ -114,30 +66,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg Bjornson",
-    "name": "Vanilla Factions Expanded - Tribals",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Zaljerem",
-    "name": "Boats (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "TranslucencY",
-    "name": "Brain In a Jar",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Happycam",
-    "name": "Christmas Trees Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Hatti",
     "name": "CleaningArea",
     "steamId": null,
@@ -152,12 +80,6 @@
   {
     "author": "Sierra",
     "name": "DLC Mechanics Patch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Pyrce",
-    "name": "Dire Raids",
     "steamId": null,
     "version": null
   },
@@ -186,6 +108,12 @@
     "version": null
   },
   {
+    "author": "AOBA",
+    "name": "Engine Industries",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "SmArtKar and Elseud",
     "name": "Enhanced Vat Learning",
     "steamId": null,
@@ -194,12 +122,6 @@
   {
     "author": "Malistaticy",
     "name": "Extinguish Refuelables",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Weapons Expanded",
     "steamId": null,
     "version": null
   },
@@ -217,13 +139,7 @@
   },
   {
     "author": "AobaKuma",
-    "name": "Fortifications - Medieval",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AobaKuma",
-    "name": "Fortifications - Neolithic",
+    "name": "Fortifications - Medieval - Material",
     "steamId": null,
     "version": null
   },
@@ -234,50 +150,8 @@
     "version": null
   },
   {
-    "author": "Bonible",
-    "name": "Gore Upon Dismemberment Retexture",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sparky, Clashgore, HappyPurging, Odzmang, BlackMarket420, Tittymcswaggy, Alite and Abomination",
-    "name": "GrimWorld 40,000 - Core Imperialis",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Clashgore, HappyPurging, Odzmang, BlackMarket420, Tittymcswaggy, Robert2204 and Abomination",
-    "name": "Grimworld 40,000 - Angels of Death",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sparky, Clashgore, HappyPurging, Odzmang, BlackMarket420, Tittymcswaggy, Alite and Abomination",
-    "name": "Grimworld 40,000 - Hammer of the Imperium",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Samael, Clashgore, Alite, Anthitei, Blackmarket420 and Abomination",
-    "name": "GrimWorld 40,000 - Vehicles of Grimworld",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Cooking Expanded - Stews",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "MallowYellow",
     "name": "Hemogen Cuisine",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Zaryulenko",
-    "name": "Hostile Environment vehicles",
     "steamId": null,
     "version": null
   },
@@ -324,12 +198,6 @@
     "version": null
   },
   {
-    "author": "Udon",
-    "name": "Mass Lovin'",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Witek",
     "name": "Mechs can haul to charger",
     "steamId": null,
@@ -342,14 +210,8 @@
     "version": null
   },
   {
-    "author": "AobaKuma",
-    "name": "Fortifications - Medieval - Material",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "zenlor",
-    "name": "Medieval Overhaul Tweaks",
+    "author": "Bonible",
+    "name": "Medieval Melee Sounds",
     "steamId": null,
     "version": null
   },
@@ -360,20 +222,8 @@
     "version": null
   },
   {
-    "author": "Bonible",
-    "name": "Modded Weapon Sound Replacement",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Sinnamon and MrKev",
     "name": "More Ritual Rewards (1.4)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oldking",
-    "name": "Multi-Bed Royalty Patch (Continued)",
     "steamId": null,
     "version": null
   },
@@ -414,68 +264,8 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outland - Furniture & Decor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outland - Motz Coalition",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Peppsen",
     "name": "P-Music",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, AveryTheKitty and Taranchuk",
-    "name": "Vanilla Weapons Expanded - Coilguns",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Weapons Expanded - Heavy Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Quickdraw",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Luizi and xrushha",
-    "name": "Vanilla Weapons Expanded - Frontier",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Expanded - Ideology Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Expanded - Royalty Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Meltup and Sicarious",
-    "name": "Polyamory Beds (Vanilla Edition)",
     "steamId": null,
     "version": null
   },
@@ -498,80 +288,14 @@
     "version": null
   },
   {
-    "author": "mo",
-    "name": "RimField5042",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "ruPal",
     "name": "RimPy Mod Manager Database",
     "steamId": null,
     "version": null
   },
   {
-    "author": "3HST Limited",
-    "name": "RimThunder - Aurora of Liberation",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AOBA",
-    "name": "RimThunder - Cold Front",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Aoba",
-    "name": "RimThunder - Eastern Skies",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "RimThunder Team",
-    "name": "RimThunder - Western Green Beta",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sierra",
-    "name": "RimTraits - General Traits",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rooboid and Zelan",
-    "name": "Roo's Minotaur Xenotype Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rooboid and Zelan",
-    "name": "Roo's Faun Xenotype",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Trunken",
-    "name": "Vanilla Apparel Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rooboid and Zelan",
-    "name": "Roo's Satyr and Faun Xenotypes Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Mlie",
     "name": "Ruined Is Unfertilized",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson, Chowder and Trahspanda",
-    "name": "Vanilla Brewing Expanded - Coffees and Teas",
     "steamId": null,
     "version": null
   },
@@ -600,30 +324,6 @@
     "version": null
   },
   {
-    "author": "Sarg Bjornson and Oskar Potocki",
-    "name": "Vanilla Cooking Expanded - Sushi",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Plants Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson and Oskar Potocki",
-    "name": "Vanilla Plants Expanded - More Plants",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "OptimusPrimordial Ported by Kobo",
-    "name": "Simple Algae - 'VPE More Plants' Addon",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Owlchemist",
     "name": "Simple Utilities: Wall",
     "steamId": null,
@@ -638,24 +338,6 @@
   {
     "author": "Linkolas",
     "name": "Stabilize",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "MO",
-    "name": "Technical Vehicles",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "BlackMarket420",
-    "name": "The Army Of Fetid Corpses",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Slomow",
-    "name": "The Liberators",
     "steamId": null,
     "version": null
   },
@@ -720,8 +402,20 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and Trunken",
+    "name": "Vanilla Apparel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, xrushha and SmashPhil",
     "name": "Vanilla Apparel Expanded — Accessories",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Armour Expanded",
     "steamId": null,
     "version": null
   },
@@ -734,6 +428,36 @@
   {
     "author": "Kikohi and Oskar Potocki",
     "name": "Vanilla Base Generation Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, AveryTheKitty and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Coilguns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Heavy Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Luizi and xrushha",
+    "name": "Vanilla Weapons Expanded - Frontier",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Expanded - Ideology Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Expanded - Royalty Patches",
     "steamId": null,
     "version": null
   },
@@ -822,14 +546,14 @@
     "version": null
   },
   {
-    "author": "Taranchuk, Sarg Bjornson and Oskar Potocki",
-    "name": "Vanilla Plants Expanded - Mushrooms",
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki and Alestria",
-    "name": "Vanilla Plants Expanded - Succulents",
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Plants Expanded - More Plants",
     "steamId": null,
     "version": null
   },
@@ -876,38 +600,20 @@
     "version": null
   },
   {
+    "author": "Sergkart",
+    "name": "WVC - Tweaks and Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Victor and wilki24",
     "name": "Walls are solid",
     "steamId": null,
     "version": null
   },
   {
-    "author": "flangopink and Ogam",
-    "name": "Warhammer 40.000 - Imperium Materials",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ogam",
-    "name": "Warhammer 40.000 - Imperium Weaponry",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Haplo",
     "name": "Misc. Robots",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "JangoD'soul",
-    "name": "[JDS] Simple Storage - Refrigeration",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Zyszhao",
-    "name": "Zyszhao’s Vehicle Pack - Into the Fire",
     "steamId": null,
     "version": null
   },
@@ -926,6 +632,12 @@
   {
     "author": "Smuffle",
     "name": "Harvest Organs Post Mortem",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo and Updated by Ogliss",
+    "name": "What the hack?!",
     "steamId": null,
     "version": null
   },
