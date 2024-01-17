@@ -168,8 +168,9 @@
       "degree": 0,
       "description": "Timmy is too smart for his own good. he learns everything much faster than everyone, but can be quite eccentric.",
       "stats": [
-        "+150% global learning factor",
-        "+12% mental break threshold"
+        "+75% global learning factor",
+        "+12% mental break threshold",
+        "x50% global certainty loss factor"
       ],
       "conflicts": [
         "iron-willed",
@@ -188,8 +189,9 @@
           "slowlearner"
         ],
         "stats": [
-          "+150% global learning factor",
-          "+12% mental break threshold"
+          "+75% global learning factor",
+          "+12% mental break threshold",
+          "x50% global certainty loss factor"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -216,7 +218,6 @@
       "conflicts": [
         "carefulshooter",
         "trigger-happy",
-        "expertshooter",
         "wimp"
       ],
       "bypassLimit": false,
@@ -224,7 +225,6 @@
         "conflicts": [
           "carefulshooter",
           "trigger-happy",
-          "expertshooter",
           "wimp"
         ],
         "stats": [
@@ -538,9 +538,7 @@
       "degree": 0,
       "description": "Timmy is weak and cowardly. Even a little pain will immobilize him. At least he is really good at running and for whatever reason seems to be nearly immune to toxic substances.",
       "stats": [
-        "-45% pain shock threshold",
-        "+90% toxic resistance",
-        "+0.40 move speed",
+        "-50% pain shock threshold",
         "x200% global certainty loss factor"
       ],
       "conflicts": [
@@ -554,9 +552,7 @@
           "masochist"
         ],
         "stats": [
-          "-45% pain shock threshold",
-          "+90% toxic resistance",
-          "+0.40 move speed",
+          "-50% pain shock threshold",
           "x200% global certainty loss factor"
         ],
         "canBypassLimit": false,
@@ -604,16 +600,14 @@
       "degree": 0,
       "description": "Timmy has a knack for learning. he picks things up much faster than others.",
       "stats": [
-        "+75% global learning factor",
-        "-10% global work speed"
+        "+75% global learning factor"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "+75% global learning factor",
-          "-10% global work speed"
+          "+75% global learning factor"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -632,7 +626,7 @@
       "degree": 0,
       "description": "Timmy has never learned how to learn. The motivation and talent is there, he just needs time and patience. \n\n    Each skill point increases global learning factor by 2%",
       "stats": [
-        "-130% global learning factor",
+        "-75% global learning factor",
         "x50% global certainty loss factor"
       ],
       "conflicts": [
@@ -644,7 +638,7 @@
           "toosmart"
         ],
         "stats": [
-          "-130% global learning factor",
+          "-75% global learning factor",
           "x50% global certainty loss factor"
         ],
         "canBypassLimit": false,
@@ -808,7 +802,6 @@
       "degree": 0,
       "description": "Timmy has thick skin, dense flesh, and durable bones. he takes much less damage than other people from the same blows. he stands solid like a rock, and equally unmovable.",
       "stats": [
-        "-0.40 move speed",
         "x50% incoming damage multiplier"
       ],
       "conflicts": [],
@@ -816,7 +809,6 @@
       "data": {
         "conflicts": [],
         "stats": [
-          "-0.40 move speed",
           "x50% incoming damage multiplier"
         ],
         "canBypassLimit": false,
@@ -863,10 +855,7 @@
       "description": "Timmy's life revolves around food. he gets hungry quickly but also eats faster, cooks faster and knows his ingredients, barely ever causing food poisoning.",
       "stats": [
         "Only mental break \"Binging_Food\" allowed.",
-        "+100% eating speed",
-        "+5.0 cooking speed",
-        "-75.00% food poison chance",
-        "+10% butchery efficiency"
+        "+4 cooking"
       ],
       "conflicts": [
         "ascetic"
@@ -878,10 +867,7 @@
         ],
         "stats": [
           "Only mental break \"Binging_Food\" allowed.",
-          "+100% eating speed",
-          "+5.0 cooking speed",
-          "-75.00% food poison chance",
-          "+10% butchery efficiency"
+          "+4 cooking"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -927,8 +913,7 @@
       "description": "Timmy is always falling behind the group whenever he goes anywhere.",
       "stats": [
         "Go frenzy inspiration disabled.",
-        "-0.40 move speed",
-        "+25% rest rate multiplier"
+        "-0.20 move speed"
       ],
       "conflicts": [],
       "bypassLimit": false,
@@ -936,8 +921,7 @@
         "conflicts": [],
         "stats": [
           "Go frenzy inspiration disabled.",
-          "-0.40 move speed",
-          "+25% rest rate multiplier"
+          "-0.20 move speed"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -956,14 +940,14 @@
       "degree": 1,
       "description": "Timmy likes to be where he's going. he walks quicker than most people.",
       "stats": [
-        "+0.40 move speed"
+        "+0.20 move speed"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "+0.40 move speed"
+          "+0.20 move speed"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -982,16 +966,14 @@
       "degree": 2,
       "description": "Timmy always moves with a sense of urgency - so much so that others often fail to keep up.",
       "stats": [
-        "+0.70 move speed",
-        "-10% rest rate multiplier"
+        "+0.40 move speed"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "+0.70 move speed",
-          "-10% rest rate multiplier"
+          "+0.40 move speed"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1055,8 +1037,7 @@
       "description": "Timmy abhors the idea of gaining pleasure from chemicals, and avoids alcohol and pleasurable drugs. he is a hard working individual.",
       "stats": [
         "Binging on drug mental state disabled.",
-        "Binging on drug mental state disabled.",
-        "+20% global work speed"
+        "Binging on drug mental state disabled."
       ],
       "conflicts": [],
       "bypassLimit": false,
@@ -1064,8 +1045,7 @@
         "conflicts": [],
         "stats": [
           "Binging on drug mental state disabled.",
-          "Binging on drug mental state disabled.",
-          "+20% global work speed"
+          "Binging on drug mental state disabled."
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1262,9 +1242,6 @@
       "degree": -2,
       "description": "Timmy is on a hair-trigger all the time. he is the first to break in any tough situation. If that happens he will find something to smash.",
       "stats": [
-        "Only mental break \"Tantrum\" allowed.",
-        "Only mental break \"TargetedTantrum\" allowed.",
-        "Only mental break \"BedroomTantrum\" allowed.",
         "+15% mental break threshold",
         "x300% global certainty loss factor"
       ],
@@ -1273,9 +1250,6 @@
       "data": {
         "conflicts": [],
         "stats": [
-          "Only mental break \"Tantrum\" allowed.",
-          "Only mental break \"TargetedTantrum\" allowed.",
-          "Only mental break \"BedroomTantrum\" allowed.",
           "+15% mental break threshold",
           "x300% global certainty loss factor"
         ],
@@ -1296,14 +1270,16 @@
       "degree": 1,
       "description": "Timmy likes to have things squared away. he will work harder than most to attain this state of affairs, but his random mood swings can get the better of him.",
       "stats": [
-        "+20% global work speed"
+        "+20% global work speed",
+        "+8% mental break threshold"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "+20% global work speed"
+          "+20% global work speed",
+          "+8% mental break threshold"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1322,14 +1298,16 @@
       "degree": 2,
       "description": "Timmy feels constantly nervous about everything that has to get done. he will work extremely hard to attain this state of affairs, but his random mood swings can easily get the better of him.",
       "stats": [
-        "+40% global work speed"
+        "+40% global work speed",
+        "+14% mental break threshold"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "+40% global work speed"
+          "+40% global work speed",
+          "+14% mental break threshold"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1348,16 +1326,14 @@
       "degree": 2,
       "description": "Timmy has an easy time staying on-task and focused, and gets things done much faster than the average person.",
       "stats": [
-        "+35% global work speed",
-        "+15% joy need rate multiplier"
+        "+35% global work speed"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "+35% global work speed",
-          "+15% joy need rate multiplier"
+          "+35% global work speed"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1376,16 +1352,14 @@
       "degree": 1,
       "description": "Timmy is a natural hard worker and will finish tasks faster than most.",
       "stats": [
-        "+20% global work speed",
-        "+10% joy need rate multiplier"
+        "+20% global work speed"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "+20% global work speed",
-          "+10% joy need rate multiplier"
+          "+20% global work speed"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1404,16 +1378,14 @@
       "degree": -1,
       "description": "Timmy is a little bit lazy.",
       "stats": [
-        "-20% global work speed",
-        "-33% joy need rate multiplier"
+        "-20% global work speed"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "-20% global work speed",
-          "-33% joy need rate multiplier"
+          "-20% global work speed"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1432,16 +1404,14 @@
       "degree": -2,
       "description": "Timmy loves idleness and hates anything productive. he moves slowly and rarely stays focused on a task.",
       "stats": [
-        "-35% global work speed",
-        "-67% joy need rate multiplier"
+        "-35% global work speed"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "-35% global work speed",
-          "-67% joy need rate multiplier"
+          "-35% global work speed"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1619,38 +1589,6 @@
       },
       "defName": "ShootingAccuracy",
       "name": "trigger-happy"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 2,
-      "description": "Timmy has had proper training with ranged weapons. he shoots accurately and quickly.",
-      "stats": [
-        "-25% aiming time",
-        "+2.5 shooting accuracy"
-      ],
-      "conflicts": [
-        "brawler"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "brawler"
-        ],
-        "stats": [
-          "-25% aiming time",
-          "+2.5 shooting accuracy"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ShootingAccuracy",
-      "name": "expertshooter"
     },
     {
       "canAdd": true,
@@ -1883,6 +1821,58 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy possesses an unnatural, almost pristine beauty that makes him stand out among others of his kind.",
+      "stats": [
+        "+3.0 beauty"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+3.0 beauty"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alpha Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AG_Beauty",
+      "name": "angelicbeauty"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2,
+      "description": "Timmy is so unfathomably ugly and grotesque that merely looking at him is enough to make other people nauseous.",
+      "stats": [
+        "-3.0 beauty"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-3.0 beauty"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alpha Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AG_Beauty",
+      "name": "repulsive"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0,
       "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
       "stats": [],
@@ -1994,72 +1984,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy prefers shells over sleeves. he doesn’t care how often he switches shells or what shell he is currently riding, but will be unhappy in a sleeve.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Altered Carbon: Ultratech Unleashed",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VFEU_Shellwalker",
-      "name": "shellwalker"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has always seen their body as nothing more than a vessel for the mind. he does not care about the gender, age or looks of their body.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Altered Carbon: Ultratech Unleashed",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VFEU_FreeMind",
-      "name": "freemind"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy can change sleeves as easily as changing clothes. he doesn’t care how often he switches sleeves or what sleeve he is currently riding.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Altered Carbon: Ultratech Unleashed",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VFEU_Sleever",
-      "name": "sleever"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
       "description": "Timmy has the ability to rebound projectiles.",
       "stats": [],
       "conflicts": [],
@@ -2075,6 +1999,62 @@
       },
       "defName": "ProjectileInversion_Trait",
       "name": "masterofblade"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is always ready with a flirtatious comment or a playful compliment, lifting the spirits of those around him. he has a knack for making others feel special and desired, however this may sometimes lead to complicated situations when he's playful intentions are misinterpreted.",
+      "stats": [],
+      "conflicts": [
+        "abrasive",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "abrasive",
+          "psychopath"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Races Expanded - Highmate",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VRE_Flirty",
+      "name": "flirty"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is exceptionally empathetic and sensitive to the suffering of others. Whenever he witnesses pain or hardship, it deeply affects him, resulting in memories of these events haunting Timmy for a much longer time.",
+      "stats": [],
+      "conflicts": [
+        "bloodlust",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "bloodlust",
+          "psychopath"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Races Expanded - Highmate",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VRE_Distressed",
+      "name": "distressed"
     },
     {
       "canAdd": true,
@@ -3621,52 +3601,54 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 2,
-      "description": "Timmy possesses an unnatural, almost pristine beauty that makes him stand out among others of his kind.",
-      "stats": [
-        "+3.0 beauty"
-      ],
+      "degree": 0,
+      "description": "Timmy is entombed in a mech master warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Timmy will be unable to do most tasks, except those necessary to maintain and build mechanoids.",
+      "stats": [],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [
-          "+3.0 beauty"
-        ],
+        "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Alpha Genes",
+        "mod": "Unknown",
         "karmaTypeForAdding": null
       },
-      "defName": "AG_Beauty",
-      "name": "angelicbeauty"
+      "defName": "VFEP_WarcasketTrait_Mech",
+      "name": "mechwarcasket"
     },
     {
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": -2,
-      "description": "Timmy is so unfathomably ugly and grotesque that merely looking at him is enough to make other people nauseous.",
+      "degree": 2,
+      "description": "Timmy has had proper training with ranged weapons. he shoots accurately and quickly.",
       "stats": [
-        "-3.0 beauty"
+        "-25% aiming time",
+        "+2.5 shooting accuracy"
       ],
-      "conflicts": [],
+      "conflicts": [
+        "brawler"
+      ],
       "bypassLimit": false,
       "data": {
-        "conflicts": [],
+        "conflicts": [
+          "brawler"
+        ],
         "stats": [
-          "-3.0 beauty"
+          "-25% aiming time",
+          "+2.5 shooting accuracy"
         ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Alpha Genes",
+        "mod": "RimWorld",
         "karmaTypeForAdding": null
       },
-      "defName": "AG_Beauty",
-      "name": "repulsive"
+      "defName": "ShootingAccuracy",
+      "name": "expertshooter"
     },
     {
       "canAdd": true,
@@ -4084,84 +4066,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is entombed in a mech master warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Timmy will be unable to do most tasks, except those necessary to maintain and build mechanoids.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Unknown",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VFEP_WarcasketTrait_Mech",
-      "name": "mechwarcasket"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is always ready with a flirtatious comment or a playful compliment, lifting the spirits of those around him. he has a knack for making others feel special and desired, however this may sometimes lead to complicated situations when he's playful intentions are misinterpreted.",
-      "stats": [],
-      "conflicts": [
-        "abrasive",
-        "psychopath"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "abrasive",
-          "psychopath"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Races Expanded - Highmate",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VRE_Flirty",
-      "name": "flirty"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is exceptionally empathetic and sensitive to the suffering of others. Whenever he witnesses pain or hardship, it deeply affects him, resulting in memories of these events haunting Timmy for a much longer time.",
-      "stats": [],
-      "conflicts": [
-        "bloodlust",
-        "psychopath"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "bloodlust",
-          "psychopath"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Races Expanded - Highmate",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VRE_Distressed",
-      "name": "distressed"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
       "description": "For some strange reason, Timmy is not touched by ancient mechanoids, they constantly ignore him no matter what Timmy takes against them.",
       "stats": [],
       "conflicts": [],
@@ -4177,6 +4081,28 @@
       },
       "defName": "WVC_RB_FriendOrFoeTrait",
       "name": "techno-ghost"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is afraid of shapeshift; just the thought of a sudden and complete transformation gives him goosebumps. he will never use shapeshifting.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "WVC - Xenotypes and Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "WVC_XaG_ShapeshiftPhobia",
+      "name": "shiftphobe"
     }
   ],
   "races": [
@@ -4201,6 +4127,33 @@
       "enabled": true,
       "name": "human",
       "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+70.00 Mass",
+          "+100% Flammability",
+          "-60.0C Minimum comfortable temperature",
+          "+200.0C Maximum comfortable temperature",
+          "+0% Psychic sensitivity",
+          "+0% Toxic resistance",
+          "+0 Meat amount",
+          "+0 Leather amount",
+          "+0 Carrying capacity",
+          "+0.00% Social impact",
+          "+0.0% Armor - Blunt",
+          "+0.0% Armor - Sharp",
+          "+0.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A zombie\n\n<i><color=#66E0E4FF>Zombieland</color></i>",
+      "defName": "Zombie",
+      "enabled": true,
+      "name": "Zombie",
+      "price": 1
     }
   ]
 }

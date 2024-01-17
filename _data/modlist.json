@@ -12,20 +12,8 @@
     "version": null
   },
   {
-    "author": "explodoboy",
-    "name": "Ambition of the Cosmic",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "explodoboy",
-    "name": "Ambition of the Cosmic: True Pinnacle of Creation",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "explodoboy",
-    "name": "Ambition of the Cosmic: You're Going Too Far (SNS: AOTC Reskin)",
+    "author": "Sarg",
+    "name": "Alpha Vehicles - Neolithic",
     "steamId": null,
     "version": null
   },
@@ -108,12 +96,6 @@
     "version": null
   },
   {
-    "author": "AOBA",
-    "name": "Engine Industries",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "SmArtKar and Elseud",
     "name": "Enhanced Vat Learning",
     "steamId": null,
@@ -139,13 +121,25 @@
   },
   {
     "author": "AobaKuma",
+    "name": "Fortifications - Medieval",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
     "name": "Fortifications - Medieval - Material",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Laser",
+    "author": "AobaKuma",
+    "name": "Fortifications - Neolithic",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bonible",
+    "name": "Gore Upon Dismemberment Retexture",
     "steamId": null,
     "version": null
   },
@@ -198,6 +192,24 @@
     "version": null
   },
   {
+    "author": "Udon",
+    "name": "Mass Lovin'",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AOBA",
+    "name": "Engine Industries",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aoba",
+    "name": "Mechanization - MobileWorker",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Witek",
     "name": "Mechs can haul to charger",
     "steamId": null,
@@ -218,6 +230,12 @@
   {
     "author": "Haplo",
     "name": "Misc. Training",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bonible",
+    "name": "Modded Weapon Sound Replacement",
     "steamId": null,
     "version": null
   },
@@ -266,6 +284,48 @@
   {
     "author": "Peppsen",
     "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, AveryTheKitty and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Coilguns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Heavy Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Laser",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Luizi and xrushha",
+    "name": "Vanilla Weapons Expanded - Frontier",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Expanded - Ideology Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Expanded - Royalty Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Meltup and Sicarious",
+    "name": "Polyamory Beds (Vanilla Edition)",
     "steamId": null,
     "version": null
   },
@@ -432,36 +492,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, AveryTheKitty and Taranchuk",
-    "name": "Vanilla Weapons Expanded - Coilguns",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Weapons Expanded - Heavy Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Luizi and xrushha",
-    "name": "Vanilla Weapons Expanded - Frontier",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Expanded - Ideology Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Expanded - Royalty Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and Kikohi",
     "name": "Vanilla Chemfuel Expanded",
     "steamId": null,
@@ -600,12 +630,6 @@
     "version": null
   },
   {
-    "author": "Sergkart",
-    "name": "WVC - Tweaks and Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Victor and wilki24",
     "name": "Walls are solid",
     "steamId": null,
@@ -632,12 +656,6 @@
   {
     "author": "Smuffle",
     "name": "Harvest Organs Post Mortem",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo and Updated by Ogliss",
-    "name": "What the hack?!",
     "steamId": null,
     "version": null
   },

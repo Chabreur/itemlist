@@ -1232,6 +1232,24 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
+      "mod": "Unknown"
+    },
+    "description": null,
+    "name": null,
+    "usage": "!",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "Test"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
       "mod": "ToolkitCore"
     },
     "description": null,
