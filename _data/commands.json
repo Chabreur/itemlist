@@ -1232,14 +1232,14 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "Unknown"
+      "mod": "ToolkitCore"
     },
     "description": null,
-    "name": null,
-    "usage": "!",
-    "userLevel": "Anyone",
+    "name": "hello",
+    "usage": "!hello",
+    "userLevel": "Moderator",
     "shortcut": false,
-    "defName": "Test"
+    "defName": "HelloWorld"
   },
   {
     "data": {
@@ -1250,13 +1250,31 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitCore"
+      "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "hello",
-    "usage": "!hello",
-    "userLevel": "Moderator",
+    "name": "Viewer class",
+    "usage": "!mypawnclass",
+    "userLevel": "Anyone",
     "shortcut": false,
-    "defName": "HelloWorld"
+    "defName": "MyPawnClass"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Ability level",
+    "usage": "!abilitylevel",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "AbilityLevel"
   }
 ]
